@@ -1,0 +1,1024 @@
+﻿Log file open, 08/17/18 00:23:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: CRPG3D
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2121211423) SRandInit(-2121211423).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.539997
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.926s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-K552OV7 (192.168.1.72:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.16-23.23.18:456][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.16-23.23.18:456][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.16-23.23.18:470][  0]LogInit: Computer: DESKTOP-K552OV7
+[2018.08.16-23.23.18:470][  0]LogInit: User: Bruno
+[2018.08.16-23.23.18:470][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.08.16-23.23.18:470][  0]LogInit: High frequency timer resolution =3.703973 MHz
+[2018.08.16-23.23.18:471][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.08.16-23.23.18:471][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.16-23.23.18:471][  0]LogMemory: Process Physical Memory: 277.88 MB used, 277.88 MB peak
+[2018.08.16-23.23.18:471][  0]LogMemory: Process Virtual Memory: 269.33 MB used, 269.33 MB peak
+[2018.08.16-23.23.18:471][  0]LogMemory: Physical Memory: 4404.75 MB used,  3721.83 MB free, 8126.58 MB total
+[2018.08.16-23.23.18:471][  0]LogMemory: Virtual Memory: 4821.26 MB used,  3721.83 MB free, 134217728.00 MB total
+[2018.08.16-23.23.18:945][  0]LogInit: Using OS detected language (en-US).
+[2018.08.16-23.23.18:945][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.16-23.23.18:948][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.16-23.23.19:398][  0]LogStreaming: Display: Took  0.452s to EndInitTextLocalization.
+[2018.08.16-23.23.19:398][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.16-23.23.19:428][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.16-23.23.19:428][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.16-23.23.19:615][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.16-23.23.19:652][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2018.08.16-23.23.19:653][  0]LogD3D11RHI:       8137/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.16-23.23.19:654][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.16-23.23.19:654][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.16-23.23.19:654][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.16-23.23.19:663][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.16-23.23.19:663][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2018.08.16-23.23.19:663][  0]LogWindows: EnumDisplayDevices:
+[2018.08.16-23.23.19:663][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2018.08.16-23.23.19:663][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.08.16-23.23.19:663][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.08.16-23.23.19:664][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.08.16-23.23.19:664][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.08.16-23.23.19:664][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.08.16-23.23.19:664][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2018.08.16-23.23.19:664][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.16-23.23.19:664][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2018.08.16-23.23.19:664][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.16-23.23.19:664][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.16-23.23.19:664][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2018.08.16-23.23.19:715][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.16-23.23.19:726][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.08.16-23.23.19:728][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/Intermediate/Shaders/WorkingDirectory/15576/).
+[2018.08.16-23.23.19:728][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bruno/AppData/Local/Temp/UnrealShaderWorkingDir/4F7CAA7C42F0046A55DAA5A601F99547/'.
+[2018.08.16-23.23.19:923][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.16-23.23.19:939][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.16-23.23.19:955][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.16-23.23.19:972][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.16-23.23.19:988][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.16-23.23.20:004][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.16-23.23.20:020][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.16-23.23.20:037][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.16-23.23.20:045][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.16-23.23.20:059][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.16-23.23.20:074][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.16-23.23.20:088][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.16-23.23.20:102][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.16-23.23.20:117][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.16-23.23.20:132][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.16-23.23.20:162][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.16-23.23.20:162][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.16-23.23.20:177][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.16-23.23.20:178][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.16-23.23.20:218][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.16-23.23.20:232][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.16-23.23.20:246][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.16-23.23.20:261][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.16-23.23.20:276][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.16-23.23.20:291][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.16-23.23.20:292][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.16-23.23.20:400][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.16-23.23.20:400][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.16-23.23.20:400][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.16-23.23.21:077][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.16-23.23.21:153][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Bruno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.16-23.23.21:153][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bruno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.16-23.23.21:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.16-23.23.21:153][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.16-23.23.21:153][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.16-23.23.21:153][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.16-23.23.21:171][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.16-23.23.21:184][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bruno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.16-23.23.21:184][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.16-23.23.21:184][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.16-23.23.21:199][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.16-23.23.21:199][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.16-23.23.21:200][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.16-23.23.21:200][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.16-23.23.21:324][  0]LogAssetRegistry: FAssetRegistry took 0.0277 seconds to start up
+[2018.08.16-23.23.21:688][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.16-23.23.21:831][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.16-23.23.21:834][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.16-23.23.21:834][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.16-23.23.21:834][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.16-23.23.21:834][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.16-23.23.21:834][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.16-23.23.21:867][  0]LogNetVersion: CRPG3D , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1182231826)
+[2018.08.16-23.23.22:357][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.096230 seconds
+[2018.08.16-23.23.22:369][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.16-23.23.22:369][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.16-23.23.22:369][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.16-23.23.23:952][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.16-23.23.23:980][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.16-23.23.24:305][  0]SourceControl: Source control is disabled
+[2018.08.16-23.23.24:305][  0]SourceControl: Source control is disabled
+[2018.08.16-23.23.24:322][  0]SourceControl: Source control is disabled
+[2018.08.16-23.23.24:338][  0]SourceControl: Source control is disabled
+[2018.08.16-23.23.24:794][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.16-23.23.24:953][  0]LogOcInput: OculusInput pre-init called
+[2018.08.16-23.23.25:056][  0]LogEngine: Initializing Engine...
+[2018.08.16-23.23.25:057][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.16-23.23.25:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.16-23.23.25:059][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.16-23.23.25:312][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.16-23.23.25:333][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.16-23.23.25:381][  0]LogInit: FAudioDevice initialized.
+[2018.08.16-23.23.25:466][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Bruno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.16-23.23.25:487][  0]LogInit: Texture streaming: Enabled
+[2018.08.16-23.23.25:505][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.16-23.23.25:520][  0]LogInit: Transaction tracking system initialized
+[2018.08.16-23.23.25:544][  0]BlueprintLog: New page: Editor Load
+[2018.08.16-23.23.25:619][  0]LocalizationService: Localization service is disabled
+[2018.08.16-23.23.25:717][  0]LogConsoleResponse: Display: 
+[2018.08.16-23.23.25:862][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.16-23.23.25:862][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.16-23.23.25:862][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.16-23.23.25:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.16-23.23.25:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.16-23.23.26:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/Content/' took 0.02s
+[2018.08.16-23.23.26:213][  0]SourceControl: Source control is disabled
+[2018.08.16-23.23.26:213][  0]LightingResults: New page: Lighting Build
+[2018.08.16-23.23.26:216][  0]MapCheck: New page: Map Check
+[2018.08.16-23.23.26:216][  0]LightingResults: New page: Lighting Build
+[2018.08.16-23.23.26:292][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db959a6860, Size=112, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.16-23.23.26:304][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db959a6860, Size=112
+[2018.08.16-23.23.26:304][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db8d9a16e0, Size=112, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.16-23.23.26:315][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba05d28d0, Size=104, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.08.16-23.23.26:324][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db9fac9870, Size=24, Default__bomb_C Function /Game/blueprints_prototyping/bombs/bomb.bomb_C:ExecuteUbergraph_bomb
+[2018.08.16-23.23.26:327][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db9fac9870, Size=24
+[2018.08.16-23.23.26:328][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db9fac9870, Size=24, Default__bomb_C Function /Engine/Transient.REINST_bomb_C_6:ExecuteUbergraph_bomb
+[2018.08.16-23.23.26:329][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db9fac92b8, Size=24, Default__bomb_C Function /Game/blueprints_prototyping/bombs/bomb.bomb_C:ExecuteUbergraph_bomb
+[2018.08.16-23.23.26:337][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba05a50c0, Size=3728, Default__Joe_C Function /Game/ThirdPersonBP/Joe.Joe_C:ExecuteUbergraph_Joe
+[2018.08.16-23.23.26:339][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba059b120, Size=224, Default__falling_rock_C Function /Game/blueprints_prototyping/Falling_Rocks/falling_rock.falling_rock_C:ExecuteUbergraph_falling_rock
+[2018.08.16-23.23.26:404][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db9feafec0, Size=296, Default__foot_ball_Master_C Function /Game/blueprints_prototyping/Football_kick/foot_ball_Master.foot_ball_Master_C:ExecuteUbergraph_foot_ball_Master
+[2018.08.16-23.23.26:410][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba06074d8, Size=8, Default__physics_master_C Function /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master_C:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:412][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba06074d0, Size=8, Default__bp_pickup1_C Function /Game/blueprints_prototyping/magnesis_picking_props/bp_pickup1.bp_pickup1_C:ExecuteUbergraph_bp_pickup1
+[2018.08.16-23.23.26:412][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba06074c8, Size=8, Default__bp_pickup1_C Function /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master_C:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:432][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0214600, Size=496, Default__BP_DialogueManager_C Function /Game/DialogueSystem/Blueprints/BP_DialogueManager.BP_DialogueManager_C:ExecuteUbergraph_BP_DialogueManager
+[2018.08.16-23.23.26:461][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db9feb2470, Size=20, Default__DecisionOption_C Function /Game/DialogueSystem/Widgets/DecisionOption.DecisionOption_C:ExecuteUbergraph_DecisionOption
+[2018.08.16-23.23.26:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0a4b580, Size=432, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.08.16-23.23.26:576][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0605138, Size=8, Default__bp_pickup1_C Function /Game/blueprints_prototyping/magnesis_picking_props/bp_pickup1.bp_pickup1_C:ExecuteUbergraph_bp_pickup1
+[2018.08.16-23.23.26:576][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0605130, Size=8, Default__bp_pickup1_C Function /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master_C:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:583][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db8de16500, Size=88, Default__coin_C Function /Game/blueprints_prototyping/coin/coin.coin_C:ExecuteUbergraph_coin
+[2018.08.16-23.23.26:598][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3619540, Size=192, Default__stick_wood_C Function /Game/blueprints_prototyping/torch_fire/stick_wood.stick_wood_C:ExecuteUbergraph_stick_wood
+[2018.08.16-23.23.26:644][  0]LogBlueprint: Warning: [Compiler physics_master] Get : 'My Character' variable not found. Base class was probably changed. /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master
+[2018.08.16-23.23.26:644][  0]LogBlueprint: Warning: [Compiler physics_master] Get : 'My Character' variable not found. Base class was probably changed. /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master
+[2018.08.16-23.23.26:649][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_DialogueSelectionTypes.e_DialogueSelectionTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.08.16-23.23.26:678][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0214600, Size=496
+[2018.08.16-23.23.26:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba11f0200, Size=496, Default__BP_DialogueManager_C Function /Engine/Transient.REINST_BP_DialogueManager_C_9:ExecuteUbergraph_BP_DialogueManager
+[2018.08.16-23.23.26:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db8de16500, Size=88
+[2018.08.16-23.23.26:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba10e2740, Size=88, Default__coin_C Function /Engine/Transient.REINST_coin_C_10:ExecuteUbergraph_coin
+[2018.08.16-23.23.26:679][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba059b120, Size=224
+[2018.08.16-23.23.26:679][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0e1eda0, Size=224, Default__falling_rock_C Function /Engine/Transient.REINST_falling_rock_C_11:ExecuteUbergraph_falling_rock
+[2018.08.16-23.23.26:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db9feafec0, Size=296
+[2018.08.16-23.23.26:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0e1bc40, Size=296, Default__foot_ball_Master_C Function /Engine/Transient.REINST_foot_ball_Master_C_12:ExecuteUbergraph_foot_ball_Master
+[2018.08.16-23.23.26:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba06074d8, Size=8
+[2018.08.16-23.23.26:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba1209b08, Size=8, Default__physics_master_C Function /Engine/Transient.REINST_physics_master_C_14:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:680][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba3619540, Size=192
+[2018.08.16-23.23.26:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0e93400, Size=192, Default__stick_wood_C Function /Engine/Transient.REINST_stick_wood_C_15:ExecuteUbergraph_stick_wood
+[2018.08.16-23.23.26:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0605138, Size=8
+[2018.08.16-23.23.26:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0605130, Size=8
+[2018.08.16-23.23.26:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba1209af0, Size=8, Default__bp_pickup1_C Function /Engine/Transient.REINST_bp_pickup1_C_16:ExecuteUbergraph_bp_pickup1
+[2018.08.16-23.23.26:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba1209ae8, Size=8, Default__bp_pickup1_C Function /Engine/Transient.REINST_physics_master_C_14:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0a4b580, Size=432
+[2018.08.16-23.23.26:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba1018800, Size=432, Default__Bp_MasterNPC_C Function /Engine/Transient.REINST_Bp_MasterNPC_C_17:ExecuteUbergraph_Bp_MasterNPC
+[2018.08.16-23.23.26:683][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db9feb2470, Size=20
+[2018.08.16-23.23.26:683][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0eb2cb0, Size=20, Default__DecisionOption_C Function /Engine/Transient.REINST_DecisionOption_C_2:ExecuteUbergraph_DecisionOption
+[2018.08.16-23.23.26:686][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba05a50c0, Size=3728
+[2018.08.16-23.23.26:686][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0dc3040, Size=3728, Default__Joe_C Function /Engine/Transient.REINST_Joe_C_18:ExecuteUbergraph_Joe
+[2018.08.16-23.23.26:788][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba38c3a00, Size=496, Default__BP_DialogueManager_C Function /Game/DialogueSystem/Blueprints/BP_DialogueManager.BP_DialogueManager_C:ExecuteUbergraph_BP_DialogueManager
+[2018.08.16-23.23.26:790][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba38bd540, Size=88, Default__coin_C Function /Game/blueprints_prototyping/coin/coin.coin_C:ExecuteUbergraph_coin
+[2018.08.16-23.23.26:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba38d4e20, Size=224, Default__falling_rock_C Function /Game/blueprints_prototyping/Falling_Rocks/falling_rock.falling_rock_C:ExecuteUbergraph_falling_rock
+[2018.08.16-23.23.26:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3aa9940, Size=296, Default__foot_ball_Master_C Function /Game/blueprints_prototyping/Football_kick/foot_ball_Master.foot_ball_Master_C:ExecuteUbergraph_foot_ball_Master
+[2018.08.16-23.23.26:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3ade1e0, Size=8, Default__physics_master_C Function /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master_C:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:793][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3816800, Size=192, Default__stick_wood_C Function /Game/blueprints_prototyping/torch_fire/stick_wood.stick_wood_C:ExecuteUbergraph_stick_wood
+[2018.08.16-23.23.26:793][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3ade190, Size=8, Default__bp_pickup1_C Function /Game/blueprints_prototyping/magnesis_picking_props/bp_pickup1.bp_pickup1_C:ExecuteUbergraph_bp_pickup1
+[2018.08.16-23.23.26:793][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3ade180, Size=8, Default__bp_pickup1_C Function /Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master_C:ExecuteUbergraph_physics_master
+[2018.08.16-23.23.26:799][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4736940, Size=432, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.08.16-23.23.26:806][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba384a878, Size=20, Default__DecisionOption_C Function /Game/DialogueSystem/Widgets/DecisionOption.DecisionOption_C:ExecuteUbergraph_DecisionOption
+[2018.08.16-23.23.26:823][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba46a10c0, Size=3728, Default__Joe_C Function /Game/ThirdPersonBP/Joe.Joe_C:ExecuteUbergraph_Joe
+[2018.08.16-23.23.26:891][  0]LogBlueprint: Warning: [Compiler physics_master] [0011.13] Compile of physics_master successful, but with 2 Warning(s) [in 265 ms] (/Game/blueprints_prototyping/magnesis_picking_props/physics_master.physics_master)
+[2018.08.16-23.23.26:910][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba454ad40, Size=320, Default__falling_rocks_spawner_C Function /Game/blueprints_prototyping/Falling_Rocks/falling_rocks_spawner.falling_rocks_spawner_C:ExecuteUbergraph_falling_rocks_spawner
+[2018.08.16-23.23.26:915][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba454ad40, Size=320
+[2018.08.16-23.23.26:915][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba454ad40, Size=320, Default__falling_rocks_spawner_C Function /Engine/Transient.REINST_falling_rocks_spawner_C_41:ExecuteUbergraph_falling_rocks_spawner
+[2018.08.16-23.23.26:918][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba454b240, Size=320, Default__falling_rocks_spawner_C Function /Game/blueprints_prototyping/Falling_Rocks/falling_rocks_spawner.falling_rocks_spawner_C:ExecuteUbergraph_falling_rocks_spawner
+[2018.08.16-23.23.26:942][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba45fd600, Size=1368, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_CustomNPC.Bp_CustomNPC_C:ExecuteUbergraph_Bp_CustomNPC
+[2018.08.16-23.23.26:942][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba38dbac0, Size=432, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.08.16-23.23.26:955][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba45fd600, Size=1368
+[2018.08.16-23.23.26:955][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba38dbac0, Size=432
+[2018.08.16-23.23.26:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba3b13200, Size=1368, Default__Bp_CustomNPC_C Function /Engine/Transient.REINST_Bp_CustomNPC_C_43:ExecuteUbergraph_Bp_CustomNPC
+[2018.08.16-23.23.26:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba38dbac0, Size=432, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.08.16-23.23.26:962][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba461a400, Size=1368, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_CustomNPC.Bp_CustomNPC_C:ExecuteUbergraph_Bp_CustomNPC
+[2018.08.16-23.23.26:962][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba38d89c0, Size=432, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.08.16-23.23.27:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4741f80, Size=576, Default__cactihurt_C Function /Game/Assets/cactihurt.cactihurt_C:ExecuteUbergraph_cactihurt
+[2018.08.16-23.23.27:073][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4741f80, Size=576
+[2018.08.16-23.23.27:073][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4741f80, Size=576, Default__cactihurt_C Function /Engine/Transient.REINST_cactihurt_C_47:ExecuteUbergraph_cactihurt
+[2018.08.16-23.23.27:081][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0c31580, Size=576, Default__cactihurt_C Function /Game/Assets/cactihurt.cactihurt_C:ExecuteUbergraph_cactihurt
+[2018.08.16-23.23.27:093][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba47b3740, Size=440, Default__pillar_C Function /Game/blueprints_prototyping/Falling_pillars/pillar.pillar_C:ExecuteUbergraph_pillar
+[2018.08.16-23.23.27:097][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba47b3740, Size=440
+[2018.08.16-23.23.27:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba47b3740, Size=440, Default__pillar_C Function /Engine/Transient.REINST_pillar_C_49:ExecuteUbergraph_pillar
+[2018.08.16-23.23.27:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba47b0b80, Size=440, Default__pillar_C Function /Game/blueprints_prototyping/Falling_pillars/pillar.pillar_C:ExecuteUbergraph_pillar
+[2018.08.16-23.23.27:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4743100, Size=560, Default__gambuzino_Blueprint_C Function /Game/Assets/Enemies/gambuzino/gambuzino_Blueprint.gambuzino_Blueprint_C:ExecuteUbergraph_gambuzino_Blueprint
+[2018.08.16-23.23.27:116][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4743100, Size=560
+[2018.08.16-23.23.27:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0c32e80, Size=560, Default__gambuzino_Blueprint_C Function /Engine/Transient.REINST_gambuzino_Blueprint_C_51:ExecuteUbergraph_gambuzino_Blueprint
+[2018.08.16-23.23.27:122][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba0c7ec00, Size=560, Default__gambuzino_Blueprint_C Function /Game/Assets/Enemies/gambuzino/gambuzino_Blueprint.gambuzino_Blueprint_C:ExecuteUbergraph_gambuzino_Blueprint
+[2018.08.16-23.23.27:129][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba496d980, Size=392, Default__gambuzino_Blueprint2_C Function /Game/Assets/Enemies/gambuzino/gambuzino_Blueprint2.gambuzino_Blueprint2_C:ExecuteUbergraph_gambuzino_Blueprint2
+[2018.08.16-23.23.27:135][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba496d980, Size=392
+[2018.08.16-23.23.27:135][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba496d980, Size=392, Default__gambuzino_Blueprint2_C Function /Engine/Transient.REINST_gambuzino_Blueprint2_C_53:ExecuteUbergraph_gambuzino_Blueprint2
+[2018.08.16-23.23.27:140][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4a76e80, Size=392, Default__gambuzino_Blueprint2_C Function /Game/Assets/Enemies/gambuzino/gambuzino_Blueprint2.gambuzino_Blueprint2_C:ExecuteUbergraph_gambuzino_Blueprint2
+[2018.08.16-23.23.27:159][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4aa17c0, Size=224, Default__HalfDMG_Spikey_C Function /Game/Assets/PlatformProps_hurt/Spikes/HalfDMG_Spikey.HalfDMG_Spikey_C:ExecuteUbergraph_HalfDMG_Spikey
+[2018.08.16-23.23.27:163][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4aa17c0, Size=224
+[2018.08.16-23.23.27:163][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4aa17c0, Size=224, Default__HalfDMG_Spikey_C Function /Engine/Transient.REINST_HalfDMG_Spikey_C_57:ExecuteUbergraph_HalfDMG_Spikey
+[2018.08.16-23.23.27:165][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a7b580, Size=224, Default__HalfDMG_Spikey_C Function /Game/Assets/PlatformProps_hurt/Spikes/HalfDMG_Spikey.HalfDMG_Spikey_C:ExecuteUbergraph_HalfDMG_Spikey
+[2018.08.16-23.23.27:171][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a7acc0, Size=224, Default__Spikey_C Function /Game/Assets/PlatformProps_hurt/Spikes/Spikey.Spikey_C:ExecuteUbergraph_Spikey
+[2018.08.16-23.23.27:174][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db88a7acc0, Size=224
+[2018.08.16-23.23.27:174][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a7acc0, Size=224, Default__Spikey_C Function /Engine/Transient.REINST_Spikey_C_59:ExecuteUbergraph_Spikey
+[2018.08.16-23.23.27:175][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a798a0, Size=224, Default__Spikey_C Function /Game/Assets/PlatformProps_hurt/Spikes/Spikey.Spikey_C:ExecuteUbergraph_Spikey
+[2018.08.16-23.23.27:183][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a62f20, Size=32, Default__TalkingCube_C Function /Game/blueprints_prototyping/Dialogue/TalkingCube.TalkingCube_C:ExecuteUbergraph_TalkingCube
+[2018.08.16-23.23.27:186][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db88a62f20, Size=32
+[2018.08.16-23.23.27:186][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a62f20, Size=32, Default__TalkingCube_C Function /Engine/Transient.REINST_TalkingCube_C_61:ExecuteUbergraph_TalkingCube
+[2018.08.16-23.23.27:187][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db88a61c20, Size=32, Default__TalkingCube_C Function /Game/blueprints_prototyping/Dialogue/TalkingCube.TalkingCube_C:ExecuteUbergraph_TalkingCube
+[2018.08.16-23.23.27:200][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ee7d80, Size=280, Default__fossils_cat_C Function /Game/blueprints_prototyping/fossils/fossils_cat.fossils_cat_C:ExecuteUbergraph_fossils_cat
+[2018.08.16-23.23.27:203][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4ee7d80, Size=280
+[2018.08.16-23.23.27:203][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ee7d80, Size=280, Default__fossils_cat_C Function /Engine/Transient.REINST_fossils_cat_C_63:ExecuteUbergraph_fossils_cat
+[2018.08.16-23.23.27:206][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ee79c0, Size=280, Default__fossils_cat_C Function /Game/blueprints_prototyping/fossils/fossils_cat.fossils_cat_C:ExecuteUbergraph_fossils_cat
+[2018.08.16-23.23.27:214][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ee7880, Size=320, Default__CatMaster1_C Function /Game/blueprints_prototyping/Keys_doors/CatMaster1.CatMaster1_C:ExecuteUbergraph_CatMaster1
+[2018.08.16-23.23.27:218][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4ee7880, Size=320
+[2018.08.16-23.23.27:218][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ee7880, Size=320, Default__CatMaster1_C Function /Engine/Transient.REINST_CatMaster1_C_65:ExecuteUbergraph_CatMaster1
+[2018.08.16-23.23.27:221][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ee6d40, Size=320, Default__CatMaster1_C Function /Game/blueprints_prototyping/Keys_doors/CatMaster1.CatMaster1_C:ExecuteUbergraph_CatMaster1
+[2018.08.16-23.23.27:234][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4ed5c00, Size=504, Default__CactusManQuestGiver_C Function /Game/Characters/CactusMan/CactusManQuestGiver.CactusManQuestGiver_C:ExecuteUbergraph_CactusManQuestGiver
+[2018.08.16-23.23.27:249][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4ed5c00, Size=504
+[2018.08.16-23.23.27:249][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba7fd3000, Size=504, Default__CactusManQuestGiver_C Function /Engine/Transient.REINST_CactusManQuestGiver_C_67:ExecuteUbergraph_CactusManQuestGiver
+[2018.08.16-23.23.27:262][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba7fd2200, Size=504, Default__CactusManQuestGiver_C Function /Game/Characters/CactusMan/CactusManQuestGiver.CactusManQuestGiver_C:ExecuteUbergraph_CactusManQuestGiver
+[2018.08.16-23.23.27:369][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4f54ae0, Size=40, Default__vertical_slice_scale_experiment_C Function /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C:ExecuteUbergraph_vertical_slice_scale_experiment
+[2018.08.16-23.23.27:371][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4f54ae0, Size=40
+[2018.08.16-23.23.27:371][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4f54ae0, Size=40, Default__vertical_slice_scale_experiment_C Function /Engine/Transient.REINST_vertical_slice_scale_experiment_C_72:ExecuteUbergraph_vertical_slice_scale_experiment
+[2018.08.16-23.23.27:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dba4f54db0, Size=40, Default__vertical_slice_scale_experiment_C Function /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C:ExecuteUbergraph_vertical_slice_scale_experiment
+[2018.08.16-23.23.27:670][  0]LogTexture: Display: Building textures: ItFoodDoughnuttex21 (AutoDXT, 64X64)
+[2018.08.16-23.23.27:670][  0]LogTexture: Display: Building textures: GrSausage (AutoDXT, 64X64)
+[2018.08.16-23.23.27:670][  0]LogTexture: Display: Building textures: darker_sand (AutoDXT, 512X512)
+[2018.08.16-23.23.27:670][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_OptionCategories.e_OptionCategories' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:724][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.27:978][  0]LogStaticMesh: Building static mesh doughnut...
+[2018.08.16-23.23.27:987][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props_houses/Food/doughnut.doughnut
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:025][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:207][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [10.909367ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:252][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.08.16-23.23.28:275][  0]LogMaterial: Missing cached shader map for material mat8, compiling. 
+[2018.08.16-23.23.28:311][  0]LogMaterial: Missing cached shader map for material mat29, compiling. 
+[2018.08.16-23.23.28:321][  0]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.16-23.23.28:321][  0]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.16-23.23.28:321][  0]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.16-23.23.28:321][  0]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.16-23.23.28:321][  0]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.16-23.23.28:321][  0]LogMaterial: Missing cached shader map for material sand_darker_Mat1, compiling. 
+[2018.08.16-23.23.28:570][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.16-23.23.28:570][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.16-23.23.28:570][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.16-23.23.28:702][  0]LogAIModule: Creating AISystem for world vertical_slice_scale_experiment
+[2018.08.16-23.23.28:843][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db8d9a16e0, Size=112
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db9fac9870, Size=24
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0dc3040, Size=3728
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0e1eda0, Size=224
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0e1bc40, Size=296
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba1209b08, Size=8
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba1209af0, Size=8
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba1209ae8, Size=8
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba11f0200, Size=496
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0eb2cb0, Size=20
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba1018800, Size=432
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba10e2740, Size=88
+[2018.08.16-23.23.28:870][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0e93400, Size=192
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba454ad40, Size=320
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba3b13200, Size=1368
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba38dbac0, Size=432
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4741f80, Size=576
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba47b3740, Size=440
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba0c32e80, Size=560
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba496d980, Size=392
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4aa17c0, Size=224
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db88a7acc0, Size=224
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002db88a62f20, Size=32
+[2018.08.16-23.23.28:871][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4ee7d80, Size=280
+[2018.08.16-23.23.28:872][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4ee7880, Size=320
+[2018.08.16-23.23.28:872][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba7fd3000, Size=504
+[2018.08.16-23.23.28:872][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba4f54ae0, Size=40
+[2018.08.16-23.23.28:879][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.16-23.23.29:015][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 135.362ms to complete.
+[2018.08.16-23.23.29:015][  0]LogFileHelpers: Loading map 'vertical_slice_scale_experiment' took 2.802
+[2018.08.16-23.23.29:215][  0]LogCollectionManager: Loaded 0 collections in 0.003712 seconds
+[2018.08.16-23.23.29:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/Saved/Collections/' took 0.01s
+[2018.08.16-23.23.29:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/Content/Developers/Bruno/Collections/' took 0.01s
+[2018.08.16-23.23.29:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/Content/Collections/' took 0.01s
+[2018.08.16-23.23.29:271][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.16-23.23.29:290][  0]LogContentBrowser: Native class hierarchy populated in 0.0179 seconds. Added 2452 classes and 558 folders.
+[2018.08.16-23.23.29:300][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.16-23.23.29:306][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.16-23.23.29:315][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.16-23.23.29:343][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.16-23.23.29:347][  0]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.16-23.23.29:357][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.16-23.23.29:507][  0]LogRenderer: Reallocating scene render targets to support 1208x640 Format 10 NumSamples 1 (Frame:1).
+[2018.08.16-23.23.29:791][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.16-23.23.29:791][  0]LogLoad: (Engine Initialization) Total time: 14.03 seconds
+[2018.08.16-23.23.29:791][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.16-23.23.29:801][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.16-23.23.29:840][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.16-23.23.29:921][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.16-23.23.30:036][  3]LogAssetRegistry: Asset discovery search completed in 8.7349 seconds
+[2018.08.16-23.23.30:039][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.16-23.23.30:040][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2018.08.16-23.23.30:877][ 70]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.16-23.23.34:943][522]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Bruno/Documents/GitHub/Hakunamatata/Hakunamatata 4.19/Content/' took 5.13s
+[2018.08.16-23.23.48:100][544]LogEditorViewport: Clicking on Actor (LMB): spline_blueprint_C (spline_blueprint6)
+[2018.08.16-23.23.50:627][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.23.50:949][808]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.16-23.23.50:984][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.23.50:985][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-23.23.50:985][808]PIE: New page: PIE session: vertical_slice_scale_experiment (Aug 17, 2018, 1:23:50 AM)
+[2018.08.16-23.23.50:985][808]LogPlayLevel: Creating play world package: /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment
+[2018.08.16-23.23.51:067][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082062s)
+[2018.08.16-23.23.51:068][808]LogAIModule: Creating AISystem for world vertical_slice_scale_experiment
+[2018.08.16-23.23.51:068][808]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.08.16-23.23.51:068][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment to /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment (0.083239s)
+[2018.08.16-23.23.51:097][808]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.16-23.23.51:144][808]LogInit: FAudioDevice initialized.
+[2018.08.16-23.23.51:188][808]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-23.23.51:220][808]LogWorld: Bringing World /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment up for play (max tick rate 0) at 2018.08.17-00.23.51
+[2018.08.16-23.23.51:230][808]LogWorld: Bringing up level for play took: 0.040940
+[2018.08.16-23.23.51:234][808]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.08.16-23.23.51:234][808]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.23.51:234][808]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.23.51:234][808]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.23.51:236][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.23.51:236][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.23.51:237][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.23.51:237][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.23.51:239][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.23.51:239][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.23.51:239][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.23.51:239][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.23.51:239][808]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.23.51:244][808]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.23.51:244][808]PIE: Play in editor start time for /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment 0.378
+[2018.08.16-23.23.51:244][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.24.06:999][596]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:007][597]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:016][598]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:025][599]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:034][600]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:042][601]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:052][602]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:060][603]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:070][604]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:078][605]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:088][606]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:097][607]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:106][608]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:116][609]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:126][610]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:136][611]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:146][612]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:155][613]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:164][614]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:172][615]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:182][616]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:190][617]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:201][618]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:209][619]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:219][620]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:228][621]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:237][622]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:246][623]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:254][624]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:263][625]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:271][626]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:280][627]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:289][628]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:297][629]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:305][630]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:314][631]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:322][632]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:331][633]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:340][634]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:349][635]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:357][636]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:366][637]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:374][638]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:383][639]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:392][640]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:403][641]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:412][642]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:420][643]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:429][644]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:438][645]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:447][646]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:456][647]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:465][648]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:474][649]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:484][650]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:493][651]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:503][652]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:511][653]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:521][654]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:530][655]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:539][656]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:548][657]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:557][658]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:566][659]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:575][660]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:584][661]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:593][662]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:602][663]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:614][664]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:624][665]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:634][666]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:645][667]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:654][668]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:663][669]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:671][670]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:680][671]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:688][672]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:697][673]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:705][674]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:714][675]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:723][676]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.24.07:724][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.24.07:769][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.24.18:376][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar32)
+[2018.08.16-23.24.20:573][930]Cmd: SELECT NONE
+[2018.08.16-23.24.23:688][270]LogEditorViewport: Clicking on Actor (LMB): spline_blueprint_C (spline_blueprint6)
+[2018.08.16-23.24.29:578][880]LogEditorViewport: Clicking on Actor (LMB): falling_rocks_spawner_C (falling_rocks_spawner)
+[2018.08.16-23.24.30:526][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.24.31:037][969]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.16-23.24.31:367][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc08963318, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.16-23.24.31:367][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc08963310, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.16-23.24.31:838][969]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.16-23.24.31:923][970]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.16-23.24.35:445][180]LogSlate: Window 'falling_rocks_spawner' being destroyed
+[2018.08.16-23.24.35:454][180]LogSlate: Window 'falling_rocks_spawner' being destroyed
+[2018.08.16-23.24.42:201][746]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:1).
+[2018.08.16-23.24.54:187][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.24.54:239][589]BlueprintLog: New page: Compile falling_rock
+[2018.08.16-23.24.54:265][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba38d4e20, Size=224
+[2018.08.16-23.24.54:265][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc27501d00, Size=224, Default__falling_rock_C Function /Engine/Transient.REINST_falling_rock_C_92:ExecuteUbergraph_falling_rock
+[2018.08.16-23.24.54:268][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc274f3c80, Size=224, Default__falling_rock_C Function /Game/blueprints_prototyping/Falling_Rocks/falling_rock.falling_rock_C:ExecuteUbergraph_falling_rock
+[2018.08.16-23.24.56:583][736]LogSlate: Window 'falling_rock*' being destroyed
+[2018.08.16-23.24.56:590][736]LogSlate: Window 'falling_rock*' being destroyed
+[2018.08.16-23.24.58:930][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.24.58:996][974]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.16-23.24.59:035][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.24.59:035][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-23.24.59:035][974]PIE: New page: PIE session: vertical_slice_scale_experiment (Aug 17, 2018, 1:24:59 AM)
+[2018.08.16-23.24.59:035][974]LogPlayLevel: Creating play world package: /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment
+[2018.08.16-23.24.59:114][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078665s)
+[2018.08.16-23.24.59:115][974]LogAIModule: Creating AISystem for world vertical_slice_scale_experiment
+[2018.08.16-23.24.59:115][974]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.08.16-23.24.59:115][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment to /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment (0.079752s)
+[2018.08.16-23.24.59:129][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dc27501d00, Size=224
+[2018.08.16-23.24.59:150][974]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.16-23.24.59:196][974]LogInit: FAudioDevice initialized.
+[2018.08.16-23.24.59:230][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-23.24.59:258][974]LogWorld: Bringing World /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment up for play (max tick rate 0) at 2018.08.17-00.24.59
+[2018.08.16-23.24.59:261][974]LogWorld: Bringing up level for play took: 0.030269
+[2018.08.16-23.24.59:262][974]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.24.59:262][974]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.24.59:262][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.24.59:264][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.24.59:264][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.24.59:264][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.24.59:264][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.24.59:266][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.24.59:266][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.24.59:266][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.24.59:266][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.24.59:266][974]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.24.59:269][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.24.59:269][974]PIE: Play in editor start time for /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment 0.403
+[2018.08.16-23.24.59:270][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.08:562][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-23.25.12:617][890]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:626][891]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:634][892]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:642][893]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:651][894]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:659][895]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:667][896]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:676][897]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:684][898]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:692][899]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:701][900]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:709][901]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:717][902]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:726][903]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:734][904]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:742][905]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:751][906]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:759][907]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:767][908]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:776][909]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:784][910]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:792][911]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:801][912]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:809][913]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:817][914]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:826][915]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:834][916]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:843][917]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:851][918]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:859][919]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:868][920]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:876][921]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:884][922]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:893][923]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:901][924]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:909][925]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:918][926]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:926][927]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:934][928]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:943][929]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:951][930]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:959][931]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:968][932]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:976][933]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:984][934]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.12:993][935]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:001][936]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:009][937]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:018][938]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:026][939]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:034][940]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:043][941]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:051][942]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:059][943]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:068][944]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:076][945]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:085][946]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.13:087][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.13:133][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.16:596][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-23.25.18:131][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.25.18:205][256]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.16-23.25.18:239][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.18:239][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-23.25.18:239][256]PIE: New page: PIE session: vertical_slice_scale_experiment (Aug 17, 2018, 1:25:18 AM)
+[2018.08.16-23.25.18:239][256]LogPlayLevel: Creating play world package: /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment
+[2018.08.16-23.25.18:319][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079384s)
+[2018.08.16-23.25.18:319][256]LogAIModule: Creating AISystem for world vertical_slice_scale_experiment
+[2018.08.16-23.25.18:320][256]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2018.08.16-23.25.18:320][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment to /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment (0.080521s)
+[2018.08.16-23.25.18:354][256]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.16-23.25.18:402][256]LogInit: FAudioDevice initialized.
+[2018.08.16-23.25.18:433][256]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-23.25.18:465][256]LogWorld: Bringing World /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment up for play (max tick rate 0) at 2018.08.17-00.25.18
+[2018.08.16-23.25.18:468][256]LogWorld: Bringing up level for play took: 0.033807
+[2018.08.16-23.25.18:468][256]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.25.18:468][256]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.25.18:468][256]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.25.18:470][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.25.18:470][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.25.18:470][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.25.18:470][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.25.18:473][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.25.18:473][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.25.18:473][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.25.18:473][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.25.18:473][256]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.25.18:476][256]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.25.18:476][256]PIE: Play in editor start time for /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment -0.39
+[2018.08.16-23.25.18:477][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.24:082][902]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:091][903]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:099][904]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:107][905]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:116][906]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:124][907]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:132][908]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:141][909]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:149][910]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:158][911]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:166][912]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:174][913]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:182][914]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:191][915]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:199][916]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:208][917]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:216][918]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:225][919]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:233][920]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:241][921]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:250][922]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:258][923]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:266][924]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:275][925]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:283][926]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:291][927]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:299][928]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:308][929]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:316][930]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:324][931]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:333][932]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:341][933]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:349][934]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:358][935]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:366][936]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:374][937]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:383][938]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:391][939]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:399][940]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:408][941]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:416][942]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:425][943]LogBlueprintUserMessages: [Joe_C_0] u r ded
+[2018.08.16-23.25.24:426][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.24:467][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.25.55:144][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.16-23.26.09:598][768]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2018.08.16-23.26.22:592][229]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint17)
+[2018.08.16-23.26.24:578][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush10x6_StaticMesh54)
+[2018.08.16-23.26.30:358][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.26.42:931][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.26.47:280][558]LogEditorViewport: Clicking on Actor (LMB): fossils_cat_C (fossils_cat2)
+[2018.08.16-23.26.52:723][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.26.54:453][299]LogEditorViewport: Clicking on Actor (LMB): fossils_cat_C (fossils_cat2)
+[2018.08.16-23.26.55:229][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.27.11:897][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.27.11:982][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.16-23.27.12:016][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.12:017][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-23.27.12:017][656]PIE: New page: PIE session: vertical_slice_scale_experiment (Aug 17, 2018, 1:27:12 AM)
+[2018.08.16-23.27.12:017][656]LogPlayLevel: Creating play world package: /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment
+[2018.08.16-23.27.12:098][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081416s)
+[2018.08.16-23.27.12:099][656]LogAIModule: Creating AISystem for world vertical_slice_scale_experiment
+[2018.08.16-23.27.12:099][656]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.08.16-23.27.12:099][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment to /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment (0.082531s)
+[2018.08.16-23.27.12:135][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.16-23.27.12:183][656]LogInit: FAudioDevice initialized.
+[2018.08.16-23.27.12:215][656]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-23.27.12:246][656]LogWorld: Bringing World /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment up for play (max tick rate 0) at 2018.08.17-00.27.12
+[2018.08.16-23.27.12:249][656]LogWorld: Bringing up level for play took: 0.032631
+[2018.08.16-23.27.12:249][656]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.27.12:249][656]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.27.12:249][656]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.27.12:251][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.12:251][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.12:251][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.12:251][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.12:253][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.12:253][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.12:254][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.12:254][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.12:254][656]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.12:257][656]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.27.12:257][656]PIE: Play in editor start time for /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment -0.609
+[2018.08.16-23.27.12:257][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.13:190][751]LogBlueprintUserMessages: [fossils_cat2] Press E to Pick up
+[2018.08.16-23.27.13:190][751]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.13:424][778]LogBlueprintUserMessages: [Joe_C_0] TalkingCube
+[2018.08.16-23.27.13:424][778]LogBlueprintUserMessages: [Joe_C_0] TalkingCube2
+[2018.08.16-23.27.13:424][778]LogBlueprintUserMessages: [Joe_C_0] CactusManQuestGiver2
+[2018.08.16-23.27.14:617][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.14:667][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.16:232][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.27.16:299][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.16-23.27.16:336][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.16:336][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.16-23.27.16:336][ 90]PIE: New page: PIE session: vertical_slice_scale_experiment (Aug 17, 2018, 1:27:16 AM)
+[2018.08.16-23.27.16:336][ 90]LogPlayLevel: Creating play world package: /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment
+[2018.08.16-23.27.16:419][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082654s)
+[2018.08.16-23.27.16:420][ 90]LogAIModule: Creating AISystem for world vertical_slice_scale_experiment
+[2018.08.16-23.27.16:420][ 90]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.08.16-23.27.16:420][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment to /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment (0.083683s)
+[2018.08.16-23.27.16:455][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.16-23.27.16:500][ 90]LogInit: FAudioDevice initialized.
+[2018.08.16-23.27.16:531][ 90]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.16-23.27.16:561][ 90]LogWorld: Bringing World /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment.vertical_slice_scale_experiment up for play (max tick rate 0) at 2018.08.17-00.27.16
+[2018.08.16-23.27.16:564][ 90]LogWorld: Bringing up level for play took: 0.032005
+[2018.08.16-23.27.16:564][ 90]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.27.16:564][ 90]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.16-23.27.16:564][ 90]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.27.16:566][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.16:566][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.16:566][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.16:566][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.16:568][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.16:568][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.16:568][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.16:568][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.16:568][ 90]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.08.16-23.27.16:571][ 90]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.16-23.27.16:571][ 90]PIE: Play in editor start time for /Game/levels/vertical_slice_stuff/UEDPIE_0_vertical_slice_scale_experiment -0.295
+[2018.08.16-23.27.16:572][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.17:598][183]LogBlueprintUserMessages: [fossils_cat2] Press E to Pick up
+[2018.08.16-23.27.17:598][183]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Tags' of length 0 in '/Script/Engine.Actor'!
+[2018.08.16-23.27.17:833][211]LogBlueprintUserMessages: [Joe_C_0] TalkingCube
+[2018.08.16-23.27.17:833][211]LogBlueprintUserMessages: [Joe_C_0] TalkingCube2
+[2018.08.16-23.27.17:833][211]LogBlueprintUserMessages: [Joe_C_0] CactusManQuestGiver2
+[2018.08.16-23.27.18:087][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.18:135][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel' has LevelScriptBlueprint '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment' with GeneratedClass '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment_C' with ClassGeneratedBy '/Game/levels/vertical_slice_stuff/vertical_slice_scale_experiment.vertical_slice_scale_experiment:PersistentLevel.vertical_slice_scale_experiment'
+[2018.08.16-23.27.20:509][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.16-23.27.28:125][948]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc42074fb0, Size=4, Default__SKEL_Joe_C Function /Game/ThirdPersonBP/Joe.SKEL_Joe_C:ExecuteUbergraph_Joe
+[2018.08.16-23.27.30:314][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dc42074fb0, Size=4
+[2018.08.16-23.27.30:314][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc42074fb0, Size=4, Default__SKEL_Joe_C Function /Engine/Transient.REINST_SKEL_Joe_C_96:ExecuteUbergraph_Joe
+[2018.08.16-23.27.30:333][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc42076fc8, Size=4, Default__SKEL_Joe_C Function /Game/ThirdPersonBP/Joe.SKEL_Joe_C:ExecuteUbergraph_Joe
+[2018.08.16-23.27.33:872][171]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dc42076fc8, Size=4
+[2018.08.16-23.27.33:872][171]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc40250a90, Size=4, Default__SKEL_Joe_C Function /Engine/Transient.REINST_SKEL_Joe_C_98:ExecuteUbergraph_Joe
+[2018.08.16-23.27.33:891][171]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc2c8ef3f0, Size=4, Default__SKEL_Joe_C Function /Game/ThirdPersonBP/Joe.SKEL_Joe_C:ExecuteUbergraph_Joe
+[2018.08.16-23.27.37:243][311]BlueprintLog: New page: Compile Joe
+[2018.08.16-23.27.37:368][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dc2c8ef3f0, Size=4
+[2018.08.16-23.27.37:368][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc38464720, Size=4, Default__SKEL_Joe_C Function /Engine/Transient.REINST_SKEL_Joe_C_114:ExecuteUbergraph_Joe
+[2018.08.16-23.27.37:544][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dba46a10c0, Size=3728
+[2018.08.16-23.27.37:544][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000002db95c2f040, Size=3728, Default__Joe_C Function /Engine/Transient.REINST_Joe_C_133:ExecuteUbergraph_Joe
+[2018.08.16-23.27.37:595][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dc282e8100, Size=3728, Default__Joe_C Function /Game/ThirdPersonBP/Joe.Joe_C:ExecuteUbergraph_Joe
+[2018.08.16-23.27.37:962][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dc42074fb0, Size=4
+[2018.08.16-23.27.37:963][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dc38464720, Size=4
+[2018.08.16-23.27.42:539][537]LogUObjectBase: Warning: Object is not registered
+[2018.08.16-23.27.42:773][537]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.234 s
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: 
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: Stack: 
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000009AB6B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000009A8CAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000009A8DECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x0000000075EB3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x0000000074B9B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x0000000073C1C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x0000000073AA77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x0000000073AAAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x0000000073BE6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000008D2F6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000008D2FBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000008D52C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000008D350475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000008D328360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x000000008D31B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x00000000A0B2E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x00000000A0B21B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x00000000A0B3052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x00000000A0B1D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.16-23.27.42:773][537]LogOutputDevice: Error: [Callstack] 0x00000000C5E26CC1 USER32.dll!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000C5E26693 USER32.dll!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000A0B31666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000E74E5475 UE4Editor.exe!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000E74F6BD0 UE4Editor.exe!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000E74F6C4A UE4Editor.exe!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000E7504177 UE4Editor.exe!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000E7505B87 UE4Editor.exe!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000C5D63034 KERNEL32.DLL!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: [Callstack] 0x00000000C8661431 ntdll.dll!UnknownFunction []
+[2018.08.16-23.27.42:774][537]LogOutputDevice: Error: 
+[2018.08.16-23.27.42:777][537]LogStats:                SubmitErrorReport -  0.000 s
