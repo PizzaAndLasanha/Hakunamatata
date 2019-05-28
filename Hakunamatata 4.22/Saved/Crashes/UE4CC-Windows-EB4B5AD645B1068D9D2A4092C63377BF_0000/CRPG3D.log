@@ -1,0 +1,872 @@
+﻿Log file open, 05/28/19 13:10:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CRPG3D
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185341
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.28-11.10.52:334][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.28-11.10.52:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:335][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:338][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.28-11.10.52:338][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.28-11.10.52:339][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.28-11.10.52:339][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-11.10.52:339][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.28-11.10.52:354][  0]LogHAL: Display: Platform has ~ 8 GB [8546533376 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.28-11.10.52:354][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.28-11.10.52:354][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.28-11.10.52:354][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:354][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.28-11.10.52:354][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.28-11.10.52:354][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:354][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.28-11.10.52:355][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.28-11.10.52:356][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.05.28-11.10.52:356][  0]LogInit: Computer: DESKTOP-M87T7OS
+[2019.05.28-11.10.52:356][  0]LogInit: User: Carlos
+[2019.05.28-11.10.52:356][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.05.28-11.10.52:356][  0]LogInit: High frequency timer resolution =3.609375 MHz
+[2019.05.28-11.10.52:357][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.05.28-11.10.52:357][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.28-11.10.52:357][  0]LogMemory: Process Physical Memory: 96.11 MB used, 96.11 MB peak
+[2019.05.28-11.10.52:357][  0]LogMemory: Process Virtual Memory: 83.61 MB used, 83.61 MB peak
+[2019.05.28-11.10.52:357][  0]LogMemory: Physical Memory: 4892.05 MB used,  3258.56 MB free, 8150.61 MB total
+[2019.05.28-11.10.52:357][  0]LogMemory: Virtual Memory: 4616.94 MB used,  134213112.00 MB free, 134217728.00 MB total
+[2019.05.28-11.10.52:390][  0]LogInit: Using OS detected language (pt-PT).
+[2019.05.28-11.10.52:390][  0]LogInit: Using OS detected locale (pt-PT).
+[2019.05.28-11.10.52:392][  0]LogTextLocalizationManager: No localization for 'pt-PT' exists, so 'en' will be used for the language.
+[2019.05.28-11.10.52:577][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.28-11.10.52:604][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.28-11.10.52:604][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.28-11.10.52:827][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-11.10.52:827][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.28-11.10.52:924][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.05.28-11.10.52:924][  0]LogD3D11RHI:       4018/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.28-11.10.52:927][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.28-11.10.52:927][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.28-11.10.52:927][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.28-11.10.52:933][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.28-11.10.52:933][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.28-11.10.52:933][  0]LogWindows: EnumDisplayDevices:
+[2019.05.28-11.10.52:933][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.05.28-11.10.52:933][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.05.28-11.10.52:934][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.05.28-11.10.52:934][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.05.28-11.10.52:935][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.28-11.10.52:935][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.05.28-11.10.52:935][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.05.28-11.10.52:935][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.05.28-11.10.52:935][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.05.28-11.10.52:997][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.28-11.10.53:008][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.28-11.10.53:009][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.28-11.10.53:009][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.28-11.10.53:018][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.28-11.10.53:457][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.28-11.10.53:473][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.28-11.10.53:492][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.28-11.10.53:511][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.28-11.10.53:527][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.28-11.10.53:545][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.28-11.10.53:565][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.28-11.10.53:582][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.28-11.10.53:591][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.28-11.10.53:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.28-11.10.53:686][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.28-11.10.53:686][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.28-11.10.53:687][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.28-11.10.53:743][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.28-11.10.53:743][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.28-11.10.53:767][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.28-11.10.53:767][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.28-11.10.53:780][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.28-11.10.53:793][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.28-11.10.53:805][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.28-11.10.53:819][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.28-11.10.53:866][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.28-11.10.53:866][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.28-11.10.53:866][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.28-11.10.53:878][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.28-11.10.53:949][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Intermediate/Shaders/WorkingDirectory/4212/).
+[2019.05.28-11.10.53:949][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Carlos/AppData/Local/Temp/UnrealShaderWorkingDir/7DD518DB41801116F5B79F8008FD7CEA/'.
+[2019.05.28-11.10.53:952][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.28-11.10.53:952][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.28-11.10.53:952][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.28-11.10.54:585][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.28-11.10.54:641][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Carlos/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.28-11.10.54:641][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Carlos/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.28-11.10.55:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.28-11.10.55:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.28-11.10.55:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.28-11.10.55:045][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.28-11.10.55:061][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.28-11.10.55:064][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.05.28-11.10.55:111][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Carlos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.28-11.10.55:111][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.28-11.10.55:111][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.28-11.10.55:154][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.28-11.10.55:155][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.28-11.10.55:156][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.28-11.10.55:308][  0]LogAssetRegistry: FAssetRegistry took 0.0420 seconds to start up
+[2019.05.28-11.10.55:710][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-11.10.55:878][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.28-11.10.55:878][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.28-11.10.55:878][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.28-11.10.55:878][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.28-11.10.55:878][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.28-11.10.55:896][  0]LogNetVersion: CRPG3D 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2860058356)
+[2019.05.28-11.10.56:381][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.037573 seconds
+[2019.05.28-11.10.56:387][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.28-11.10.56:387][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.28-11.10.56:387][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.28-11.10.57:471][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.28-11.10.57:486][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.28-11.10.57:603][  0]SourceControl: Source control is disabled
+[2019.05.28-11.10.57:603][  0]SourceControl: Source control is disabled
+[2019.05.28-11.10.57:605][  0]SourceControl: Source control is disabled
+[2019.05.28-11.10.57:608][  0]SourceControl: Source control is disabled
+[2019.05.28-11.10.57:616][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-11.10.57:617][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-11.10.57:692][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.28-11.10.57:774][  0]LogOcInput: OculusInput pre-init called
+[2019.05.28-11.10.58:606][  0]LogEngine: Initializing Engine...
+[2019.05.28-11.10.58:607][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-11.10.58:608][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.28-11.10.58:846][  0]LogLinker: Warning: Can't find file '/Script/StoryGraphPluginRuntime'
+[2019.05.28-11.10.58:847][  0]LogLinker: Warning: Can't find file '/Script/StoryGraphPluginRuntime'
+[2019.05.28-11.10.58:847][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/StoryGraphPluginRuntime.LevelScriptActor_StoryGraph'
+[2019.05.28-11.10.58:847][  0]LogEngine: Error: Failed to load '/Script/StoryGraphPluginRuntime.LevelScriptActor_StoryGraph', falling back to 'LevelScriptActor'
+[2019.05.28-11.10.58:854][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.28-11.10.58:878][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.28-11.10.58:893][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-11.10.58:927][  0]LogInit: FAudioDevice initialized.
+[2019.05.28-11.10.58:927][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.28-11.10.59:730][  0]LogDerivedDataCache: Saved boot cache 0.80s 71MB C:/Users/Carlos/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.28-11.10.59:738][  0]LogInit: Texture streaming: Enabled
+[2019.05.28-11.10.59:764][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.28-11.10.59:789][  0]LogInit: Transaction tracking system initialized
+[2019.05.28-11.10.59:826][  0]BlueprintLog: New page: Editor Load
+[2019.05.28-11.10.59:939][  0]LocalizationService: Localization service is disabled
+[2019.05.28-11.11.00:097][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-11.11.00:098][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.28-11.11.00:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/' took 0.06s
+[2019.05.28-11.11.00:423][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.28-11.11.00:423][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.28-11.11.00:748][  0]SourceControl: Source control is disabled
+[2019.05.28-11.11.00:748][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/CRPG_3_0/maps/Desert_5_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.28-11.11.00:748][  0]LightingResults: New page: Lighting Build
+[2019.05.28-11.11.00:752][  0]MapCheck: New page: Map Check
+[2019.05.28-11.11.00:752][  0]LightingResults: New page: Lighting Build
+[2019.05.28-11.11.00:780][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.05.28-11.11.14:883][  0]LogStaticMesh: Building static mesh construction_platform...
+[2019.05.28-11.11.15:065][  0]LogStaticMesh: Built static mesh [0.22s] /Game/CRPG_3_0/Building_blocks/construction_platform.construction_platform
+[2019.05.28-11.11.16:905][  0]LogAIModule: Creating AISystem for world Desert_5_0
+[2019.05.28-11.11.16:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-11.11.17:059][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.05.28-11.11.17:059][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-11.11.17:059][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,214ms to complete.
+[2019.05.28-11.11.17:059][  0]LogFileHelpers: Loading map 'Desert_5_0' took 16.311
+[2019.05.28-11.11.18:072][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-11.11.18:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-11.11.18:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-11.11.18:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-11.11.18:286][  0]LogCollectionManager: Loaded 0 collections in 0.002790 seconds
+[2019.05.28-11.11.18:523][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Collections/' took 0.01s
+[2019.05.28-11.11.18:523][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/Developers/Carlos/Collections/' took 0.00s
+[2019.05.28-11.11.18:523][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/Collections/' took 0.00s
+[2019.05.28-11.11.18:523][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.28-11.11.18:548][  0]LogContentBrowser: Native class hierarchy populated in 0.0249 seconds. Added 2732 classes and 659 folders.
+[2019.05.28-11.11.18:678][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-11.11.18:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.18:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.18:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.18:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:312][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.19:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.28-11.11.22:112][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-11.11.22:236][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.05.28-11.11.22:561][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.28-11.11.22:563][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.28-11.11.22:599][  0]LogSlate: Took 0.019045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.28-11.11.22:793][  0]LogRenderer: Reallocating scene render targets to support 740x364 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-11.11.23:142][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-11.11.23:144][  0]LogLoad: (Engine Initialization) Total time: 34.18 seconds
+[2019.05.28-11.11.23:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.28-11.11.23:307][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.28-11.11.23:361][  0]LogSlate: Took 0.013030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-11.11.25:335][120]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.28-11.11.37:728][329]LogAssetRegistry: Asset discovery search completed in 42.4425 seconds
+[2019.05.28-11.11.37:731][329]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2019.05.28-11.11.45:058][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.11.47:215][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-11.11.47:222][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0' with GeneratedClass '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0'
+[2019.05.28-11.11.47:223][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-11.11.47:268][320]PIE: New page: PIE session: Desert_5_0 (28/05/2019, 15:11:47)
+[2019.05.28-11.11.47:296][320]LogPlayLevel: Creating play world package: /Game/CRPG_3_0/maps/UEDPIE_0_Desert_5_0
+[2019.05.28-11.11.47:309][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012376s)
+[2019.05.28-11.11.47:310][320]LogAIModule: Creating AISystem for world Desert_5_0
+[2019.05.28-11.11.47:310][320]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2019.05.28-11.11.47:310][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0 to /Game/CRPG_3_0/maps/UEDPIE_0_Desert_5_0.Desert_5_0 (0.013691s)
+[2019.05.28-11.11.47:333][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.05.28-11.11.47:341][320]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.28-11.11.47:360][320]LogInit: FAudioDevice initialized.
+[2019.05.28-11.11.47:402][320]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.28-11.11.47:408][320]LogWorld: Bringing World /Game/CRPG_3_0/maps/UEDPIE_0_Desert_5_0.Desert_5_0 up for play (max tick rate 0) at 2019.05.28-13.11.47
+[2019.05.28-11.11.47:434][320]PIE: Warning: Mobility of /Game/CRPG_3_0/maps/UEDPIE_0_Desert_5_0.Desert_5_0:PersistentLevel.Cactus_2 : CollisionCylinder has to be 'Movable' if you'd like to move. 
+[2019.05.28-11.11.47:436][320]LogWorld: Bringing up level for play took: 0.032525
+[2019.05.28-11.11.47:459][320]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.05.28-11.11.47:494][320]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.28-11.11.47:496][320]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.28-11.11.47:496][320]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.28-11.11.47:496][320]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.28-11.11.47:527][320]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.28-11.11.47:528][320]PIE: Play in editor start time for /Game/CRPG_3_0/maps/UEDPIE_0_Desert_5_0 -0,16
+[2019.05.28-11.11.47:528][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0' with GeneratedClass '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0'
+[2019.05.28-11.11.47:529][320]PIE: Warning: Mobility of /Game/CRPG_3_0/maps/UEDPIE_0_Desert_5_0.Desert_5_0:PersistentLevel.Cactus_2 : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2019.05.28-11.11.47:606][320]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'HotbarSlots' of length 8 in '/Game/InventorySystem/UMG/WBP_HotbarWidget.WBP_HotbarWidget_C'!
+[2019.05.28-11.11.48:358][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0' with GeneratedClass '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0'
+[2019.05.28-11.11.48:372][393]LogBlueprintUserMessages: [InventoryManagerComponent] Saved inventory to file!
+[2019.05.28-11.11.48:373][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-11.11.48:405][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-11.11.48:406][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0' with GeneratedClass '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/Desert_5_0.Desert_5_0:PersistentLevel.Desert_5_0'
+[2019.05.28-11.11.48:433][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-11.11.48:438][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.05.28-11.11.48:484][394]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.05.28-11.11.49:869][539]LogSlate: Window 'Message Log' being destroyed
+[2019.05.28-11.11.49:873][539]LogSlate: Window 'Message Log' being destroyed
+[2019.05.28-11.11.57:011][263]LogEditorViewport: Clicking on Actor (LMB): Spider_C (Spider)
+[2019.05.28-11.11.58:515][374]Cmd: DELETE
+[2019.05.28-11.11.58:515][374]Cmd: ACTOR DELETE
+[2019.05.28-11.11.58:578][374]LogEditorActor: Deleted Actor: Spider_C
+[2019.05.28-11.11.58:609][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.28-11.11.58:636][374]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.05.28-11.11.59:549][475]LogEditorViewport: Clicking on Actor (LMB): Cactus_C (Cactus)
+[2019.05.28-11.11.59:920][506]Cmd: DELETE
+[2019.05.28-11.11.59:920][506]Cmd: ACTOR DELETE
+[2019.05.28-11.11.59:923][506]LogEditorActor: Deleted Actor: Cactus_C
+[2019.05.28-11.11.59:952][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.05.28-11.11.59:952][506]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.05.28-11.12.00:842][606]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.28-11.12.02:358][764]LogEditorViewport: Clicking on Actor (LMB): StaticStatue_C (Statue2)
+[2019.05.28-11.12.02:991][820]Cmd: DELETE
+[2019.05.28-11.12.02:991][820]Cmd: ACTOR DELETE
+[2019.05.28-11.12.02:993][820]LogEditorActor: Deleted Actor: StaticStatue_C
+[2019.05.28-11.12.03:016][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.05.28-11.12.03:017][820]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.05.28-11.12.03:732][901]LogEditorViewport: Clicking on Actor (LMB): ArcherStatue_C (ArcherStatue)
+[2019.05.28-11.12.04:594][978]Cmd: DELETE
+[2019.05.28-11.12.04:594][978]Cmd: ACTOR DELETE
+[2019.05.28-11.12.04:596][978]LogEditorActor: Deleted Actor: ArcherStatue_C
+[2019.05.28-11.12.04:619][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.05.28-11.12.04:620][978]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.05.28-11.12.06:697][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.13.13:440][388]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.28-11.13.13:522][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-11.13.14:410][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desert_geometry_base01)
+[2019.05.28-11.13.16:777][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.13.25:754][673]Cmd: SELECT NONE
+[2019.05.28-11.13.30:226][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.28-11.13.33:106][176]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.13.33:121][176]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath.LoopPath
+[2019.05.28-11.13.33:124][176]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-11.13.33:125][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-11.13.35:293][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.05.28-11.13.35:316][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.28-11.13.35:339][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.05.28-11.13.35:802][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.13.36:179][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.05.28-11.13.37:348][265]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.13.37:351][265]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex.DecrementPathIndex
+[2019.05.28-11.13.37:355][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-11.13.37:962][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.05.28-11.13.37:986][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.05.28-11.13.38:010][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.05.28-11.13.38:544][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.13.40:446][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.28-11.13.41:495][544]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.13.41:498][544]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Statue/FindPathPointArcherStatue.FindPathPointArcherStatue
+[2019.05.28-11.13.41:503][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-11.13.41:933][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.05.28-11.13.41:957][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.28-11.13.41:980][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.05.28-11.13.42:441][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.13.43:085][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex'
+[2019.05.28-11.13.43:086][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex' while loading NULL.
+[2019.05.28-11.13.43:086][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath'
+[2019.05.28-11.13.43:086][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath' while loading NULL.
+[2019.05.28-11.13.43:091][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex'
+[2019.05.28-11.13.43:091][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex' while loading NULL.
+[2019.05.28-11.13.43:091][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath'
+[2019.05.28-11.13.43:091][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath' while loading NULL.
+[2019.05.28-11.13.43:155][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex'
+[2019.05.28-11.13.43:155][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex' while loading NULL.
+[2019.05.28-11.13.43:155][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath'
+[2019.05.28-11.13.43:155][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath' while loading NULL.
+[2019.05.28-11.13.43:155][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Statue/FindPathPointArcherStatue'
+[2019.05.28-11.13.43:156][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Statue/FindPathPointArcherStatue' while loading NULL.
+[2019.05.28-11.13.43:156][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex'
+[2019.05.28-11.13.43:156][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/DecrementPathIndex' while loading NULL.
+[2019.05.28-11.13.43:156][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath'
+[2019.05.28-11.13.43:157][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/LoopPath' while loading NULL.
+[2019.05.28-11.13.43:157][639]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Statue/FindPathPointArcherStatue'
+[2019.05.28-11.13.43:157][639]LogLinker: Warning: Can't find file for asset '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Statue/FindPathPointArcherStatue' while loading NULL.
+[2019.05.28-11.13.45:011][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.05.28-11.13.45:960][845]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.13.46:020][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.28-11.13.46:047][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.05.28-11.13.46:070][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.28-11.13.51:760][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.05.28-11.13.53:214][488]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.13.53:217][488]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Spider/IncrementPathIndexSpider.IncrementPathIndexSpider
+[2019.05.28-11.13.53:853][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.05.28-11.13.53:876][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.28-11.13.53:902][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.05.28-11.13.54:624][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.05.28-11.13.55:489][568]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.13.55:492][568]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Spider/FindPathPointSpider.FindPathPointSpider
+[2019.05.28-11.13.55:925][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.05.28-11.13.55:949][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.05.28-11.13.55:972][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.05.28-11.14.02:312][295]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LitoNPCS/NPC/StuffforBehaviourTree/ChangeSpeedStuff/ChangeNPCSpeed.ChangeNPCSpeed
+[2019.05.28-11.14.02:782][295]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.05.28-11.14.03:961][295]LogSlate: Took 0.005826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.28-11.14.07:192][632]LogSlate: Window 'ChangeNPCSpeed' being destroyed
+[2019.05.28-11.14.22:748][405]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LitoNPCS/NPC/Statues/RangeStatues/ArcherStatue.ArcherStatue
+[2019.05.28-11.14.24:862][543]LogSlate: Window 'ArcherStatue' being destroyed
+[2019.05.28-11.14.26:115][689]LogSlate: Took 0.014598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.28-11.14.33:163][519]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LitoNPCS/NPC/Statues/RangeStatues/ArcherStatue_Brain.ArcherStatue_Brain
+[2019.05.28-11.14.36:717][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.05.28-11.14.38:174][877]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.14.38:305][877]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.28-11.14.38:360][877]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/Statues/RangeStatues/PathPatrol/PatrolPathStatueArcher.PatrolPathStatueArcher
+[2019.05.28-11.14.38:607][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.05.28-11.14.38:826][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.05.28-11.14.38:862][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.05.28-11.14.38:896][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.05.28-11.14.43:684][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.05.28-11.14.44:707][414]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-11.14.44:709][414]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LitoNPCS/NPC/Spider/PatrolPath/PatrolPathSpider.PatrolPathSpider
+[2019.05.28-11.14.44:939][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.05.28-11.14.45:176][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.05.28-11.14.45:211][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.05.28-11.14.45:241][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.05.28-11.20.00:392][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-11.20.18:422][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.20.21:530][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-11.20.21:698][409]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider
+[2019.05.28-11.20.21:758][409]LogAIGraph: Error: IncrementPathIndex class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_2
+[2019.05.28-11.20.21:758][409]LogAIGraph: Error: DecrementPathIndex class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_16
+[2019.05.28-11.20.21:758][409]LogAIGraph: Error: LoopPath class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2019.05.28-11.20.21:758][409]LogAIGraph: Error: FindPathPointSpider class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2019.05.28-11.20.21:758][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/IncrementPathIndex'
+[2019.05.28-11.20.21:761][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/DecrementPathIndex'
+[2019.05.28-11.20.21:763][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/LoopPath'
+[2019.05.28-11.20.21:764][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Spider/FindPathPointSpider'
+[2019.05.28-11.20.21:799][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/IncrementPathIndex'
+[2019.05.28-11.20.21:801][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/DecrementPathIndex'
+[2019.05.28-11.20.21:802][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/LoopPath'
+[2019.05.28-11.20.21:803][409]LogLinker: Warning: Can't find file '/Game/LitoNPCS/NPC/StuffforBehaviourTree/PatrolStuff/Spider/FindPathPointSpider'
+[2019.05.28-11.20.24:261][626]LogSlate: Window 'BT_Spider' being destroyed
+[2019.05.28-11.21.11:275][460]LogAIGraph: Error: IncrementPathIndex class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_2
+[2019.05.28-11.21.11:275][460]LogAIGraph: Error: DecrementPathIndex class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_16
+[2019.05.28-11.21.11:275][460]LogAIGraph: Error: LoopPath class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2019.05.28-11.21.11:275][460]LogAIGraph: Error: FindPathPointSpider class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2019.05.28-11.21.11:281][460]LogAIGraph: Error: FindPathPointSpider class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2019.05.28-11.21.12:017][548]LogAIGraph: Error: FindPathPointSpider class missing. Referenced by BehaviorTreeGraphNode_Task /Game/LitoNPCS/NPC/Spider/BT_Spider.BT_Spider:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2019.05.28-11.21.16:054][960]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LitoNPCS/NPC/Spider/Spider.Spider
+[2019.05.28-11.21.16:422][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.28-11.21.17:831][960]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.409 s
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: 
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1272]
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: Property (ObjectProperty /Game/LitoNPCS/NPC/Spider/Spider.Spider_C:PatrolPath) is not an object or interface class
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: Stack: 
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc54b38bc UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53515fd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc52511c4 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc524ee2f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc515d78a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc514a7ac UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc514a66f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc52473fa UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc513621e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53b415c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53847b3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53957cf UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53966fd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:831][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53c961a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd2640ff6 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffc53ddb2e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f43e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f42571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd25f4989 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd25f475e UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd25f475e UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f42571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd25f92f4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f42571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd25f475e UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f42571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd25f92f4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f42571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f44bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f426d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:832][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f42571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f41c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f4419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd0f450fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd23ed714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd2416892 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd23ee2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: [Callstack] 0x00007fffd243a819 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.28-11.21.17:833][960]LogOutputDevice: Error: 
+[2019.05.28-11.21.17:840][960]LogStats:                SubmitErrorReport -  0.000 s
