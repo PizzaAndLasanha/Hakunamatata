@@ -1,0 +1,1483 @@
+﻿Log file open, 08/16/19 20:13:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Hakunamatata 4.22
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181854
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DirGravity
+LogPluginManager: Mounting plugin DonAINavigation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:718][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.16-18.13.56:718][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.16-18.13.56:719][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:719][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.16-18.13.56:765][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.16-18.13.56:766][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.16-18.13.56:771][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.16-18.13.56:771][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.16-18.13.56:815][  0]LogHAL: Display: Platform has ~ 8 GB [8546533376 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.16-18.13.56:818][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.16-18.13.56:818][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.16-18.13.56:821][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.16-18.13.56:821][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.16-18.13.56:822][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.16-18.13.56:823][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.16-18.13.56:823][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.16-18.13.56:823][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.16-18.13.56:823][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.16-18.13.56:823][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.16-18.13.56:846][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.16-18.13.56:847][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.16-18.13.56:847][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.16-18.13.56:873][  0]LogInit: Computer: DESKTOP-M87T7OS
+[2019.08.16-18.13.56:873][  0]LogInit: User: Carlos
+[2019.08.16-18.13.56:873][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.08.16-18.13.56:873][  0]LogInit: High frequency timer resolution =3.609376 MHz
+[2019.08.16-18.13.56:873][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.08.16-18.13.56:874][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.16-18.13.56:874][  0]LogMemory: Process Physical Memory: 97.36 MB used, 97.36 MB peak
+[2019.08.16-18.13.56:874][  0]LogMemory: Process Virtual Memory: 94.18 MB used, 94.18 MB peak
+[2019.08.16-18.13.56:874][  0]LogMemory: Physical Memory: 4114.21 MB used,  4036.39 MB free, 8150.61 MB total
+[2019.08.16-18.13.56:874][  0]LogMemory: Virtual Memory: 4627.37 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.08.16-18.13.57:319][  0]LogInit: Using OS detected language (pt-PT).
+[2019.08.16-18.13.57:319][  0]LogInit: Using OS detected locale (pt-PT).
+[2019.08.16-18.13.57:436][  0]LogTextLocalizationManager: No localization for 'pt-PT' exists, so 'en' will be used for the language.
+[2019.08.16-18.13.58:006][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.16-18.13.58:632][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.16-18.13.58:633][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.16-18.14.00:101][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.16-18.14.00:101][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.16-18.14.00:194][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.08.16-18.14.00:195][  0]LogD3D11RHI:       4018/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.16-18.14.00:198][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.16-18.14.00:198][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.16-18.14.00:198][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.16-18.14.00:296][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.16-18.14.00:296][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.16-18.14.00:296][  0]LogWindows: EnumDisplayDevices:
+[2019.08.16-18.14.00:296][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.08.16-18.14.00:297][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.08.16-18.14.00:297][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.08.16-18.14.00:297][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.08.16-18.14.00:297][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.16-18.14.00:297][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.08.16-18.14.00:297][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.08.16-18.14.00:297][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.08.16-18.14.00:297][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.08.16-18.14.00:374][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.16-18.14.00:719][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.16-18.14.00:725][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.16-18.14.00:725][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.16-18.14.00:739][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.16-18.14.02:814][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.16-18.14.02:830][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.16-18.14.02:848][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.16-18.14.02:865][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.16-18.14.02:884][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.16-18.14.02:899][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.16-18.14.02:915][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.16-18.14.02:931][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.16-18.14.02:938][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.16-18.14.03:051][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.16-18.14.03:066][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.16-18.14.03:149][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.16-18.14.03:149][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.16-18.14.03:207][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.16-18.14.03:207][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.16-18.14.03:234][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.16-18.14.03:254][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.16-18.14.03:275][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.16-18.14.03:303][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.16-18.14.03:362][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.16-18.14.03:362][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.16-18.14.03:362][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.16-18.14.03:590][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.16-18.14.04:030][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Intermediate/Shaders/WorkingDirectory/12272/).
+[2019.08.16-18.14.04:030][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Carlos/AppData/Local/Temp/UnrealShaderWorkingDir/6A8EB047413FE021858D3EA993C4376B/'.
+[2019.08.16-18.14.04:046][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.16-18.14.04:047][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.16-18.14.04:047][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.16-18.14.06:441][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.16-18.14.07:132][  0]LogDerivedDataCache: Loaded boot cache 0.68s 71MB C:/Users/Carlos/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.16-18.14.07:132][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Carlos/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.16-18.14.07:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.16-18.14.07:132][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.16-18.14.07:132][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.16-18.14.07:132][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.16-18.14.07:163][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.16-18.14.07:205][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.08.16-18.14.07:230][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Carlos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.16-18.14.07:230][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.16-18.14.07:230][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.16-18.14.07:368][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.16-18.14.07:459][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.16-18.14.07:658][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.16-18.14.09:127][  0]LogAssetRegistry: FAssetRegistry took 0.0439 seconds to start up
+[2019.08.16-18.14.13:314][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.16-18.14.17:333][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.16-18.14.17:333][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.16-18.14.17:333][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.16-18.14.17:333][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.16-18.14.17:334][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.16-18.14.18:722][  0]LogNetVersion: Hakunamatata 4.22 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4084922626)
+[2019.08.16-18.14.25:799][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.176554 seconds
+[2019.08.16-18.14.25:831][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.16-18.14.25:831][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.16-18.14.25:832][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.16-18.14.44:883][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.16-18.14.44:931][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.16-18.14.45:632][  0]SourceControl: Source control is disabled
+[2019.08.16-18.14.45:646][  0]SourceControl: Source control is disabled
+[2019.08.16-18.14.45:810][  0]SourceControl: Source control is disabled
+[2019.08.16-18.14.45:821][  0]SourceControl: Source control is disabled
+[2019.08.16-18.14.45:872][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.16-18.14.45:873][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.16-18.14.46:963][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.16-18.14.47:546][  0]LogOcInput: OculusInput pre-init called
+[2019.08.16-18.14.50:052][  0]LogClass: Warning: FDoNNavigationQueryData::Origin is not initialized properly
+[2019.08.16-18.14.50:053][  0]LogClass: Warning: FDoNNavigationQueryData::Destination is not initialized properly
+[2019.08.16-18.14.50:057][  0]LogClass: Display: 2 Uninitialized script stuct members found
+[2019.08.16-18.14.50:119][  0]LogAutomationTest: Warning: FDoNNavigationQueryData::Origin is not initialized properly
+[2019.08.16-18.14.50:119][  0]LogAutomationTest: Warning: FDoNNavigationQueryData::Destination is not initialized properly
+[2019.08.16-18.14.50:224][  0]LogEngine: Initializing Engine...
+[2019.08.16-18.14.50:237][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.16-18.14.50:261][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.08.16-18.14.51:417][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.16-18.14.51:933][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.16-18.14.52:389][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.16-18.14.52:453][  0]LogInit: FAudioDevice initialized.
+[2019.08.16-18.14.52:453][  0]LogNetVersion: Set ProjectVersion to 1.7.0.2. Version Checksum will be recalculated on next use.
+[2019.08.16-18.14.52:465][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Carlos/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.16-18.14.52:473][  0]LogInit: Texture streaming: Enabled
+[2019.08.16-18.14.53:084][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.16-18.14.53:408][  0]LogInit: Transaction tracking system initialized
+[2019.08.16-18.14.53:812][  0]BlueprintLog: New page: Editor Load
+[2019.08.16-18.14.54:516][  0]LocalizationService: Localization service is disabled
+[2019.08.16-18.14.55:211][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.16-18.14.55:212][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.16-18.14.56:829][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.16-18.14.56:829][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.16-18.14.57:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/' took 0.15s
+[2019.08.16-18.15.02:443][  0]SourceControl: Source control is disabled
+[2019.08.16-18.15.02:452][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/CRPG_3_0/maps/clockwork_city.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.16-18.15.02:453][  0]LightingResults: New page: Lighting Build
+[2019.08.16-18.15.02:601][  0]MapCheck: New page: Map Check
+[2019.08.16-18.15.02:601][  0]LightingResults: New page: Lighting Build
+[2019.08.16-18.15.03:216][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.08.16-18.15.16:290][  0]LogBlueprint: Warning: [Compiler Joe] InputAction Event references unknown Action 'Throw Rock' for  InputAction Throw Rock
+[2019.08.16-18.15.16:290][  0]LogBlueprint: Warning: [Compiler Joe] InputAction Event references unknown Action 'Attack' for  InputAction Attack
+[2019.08.16-18.15.16:291][  0]LogBlueprint: Warning: [Compiler Joe] InputAction Event references unknown Action 'Interact / pick up' for  InputAction Interact / pick up
+[2019.08.16-18.15.16:292][  0]LogBlueprint: Warning: [Compiler Joe] InputAction Event references unknown Action 'Interact / pick up' for  InputAction Interact / pick up
+[2019.08.16-18.15.16:293][  0]LogBlueprint: Warning: [Compiler Joe] InputAction Event references unknown Action 'item2' for  InputAction item2
+[2019.08.16-18.15.18:312][  0]LogBlueprint: Warning: [Compiler Joe] [0095,91] Compile of Joe successful, but with 5 Warning(s) [in 3 110 ms] (/Game/ThirdPersonBP/Joe.Joe)
+[2019.08.16-18.15.37:122][  0]LogAIModule: Creating AISystem for world clockwork_city
+[2019.08.16-18.15.38:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.16-18.15.44:004][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.08.16-18.15.44:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.16-18.15.44:018][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,72ms to complete.
+[2019.08.16-18.15.44:023][  0]LogFileHelpers: Loading map 'clockwork_city' took 41.573
+[2019.08.16-18.15.45:610][  0]LogCollectionManager: Loaded 0 collections in 0.014204 seconds
+[2019.08.16-18.15.45:741][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Collections/' took 0.01s
+[2019.08.16-18.15.45:741][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/Developers/Carlos/Collections/' took 0.01s
+[2019.08.16-18.15.45:741][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/Collections/' took 0.00s
+[2019.08.16-18.15.45:741][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.16-18.15.45:755][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2740 classes and 668 folders.
+[2019.08.16-18.15.45:899][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.16-18.15.45:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.45:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.45:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:161][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.46:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.16-18.15.47:306][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.16-18.15.47:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.16-18.15.47:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.16-18.15.47:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.16-18.15.47:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.16-18.15.47:822][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.16-18.15.48:330][  0]LogSlate: Took 0.025881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.16-18.15.48:397][  0]LogSlate: Took 0.015741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.16-18.15.48:407][  0]LogSlate: Took 0.008720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.16-18.15.48:585][  0]LogSlate: Took 0.012511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.16-18.15.49:031][  0]LogRenderer: Reallocating scene render targets to support 788x612 Format 10 NumSamples 1 (Frame:1).
+[2019.08.16-18.15.49:978][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.16-18.15.49:978][  0]LogLoad: (Engine Initialization) Total time: 127.58 seconds
+[2019.08.16-18.15.49:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.16-18.15.50:492][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.16-18.15.52:348][  3]LogAssetRegistry: Asset discovery search completed in 103.2506 seconds
+[2019.08.16-18.15.52:368][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.16-18.15.52:368][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.006459 seconds (updated 0 objects)
+[2019.08.16-18.16.05:075][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1327)
+[2019.08.16-18.16.17:503][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big17)
+[2019.08.16-18.16.36:967][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1328)
+[2019.08.16-18.16.37:998][  9]Cmd: DUPLICATE
+[2019.08.16-18.16.37:998][  9]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.16.42:146][449]Cmd: DELETE
+[2019.08.16-18.16.42:146][449]Cmd: ACTOR DELETE
+[2019.08.16-18.16.42:226][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.16.42:267][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.08.16-18.16.42:268][449]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2019.08.16-18.16.43:290][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1327)
+[2019.08.16-18.16.44:035][654]Cmd: DUPLICATE
+[2019.08.16-18.16.44:035][654]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.17.05:251][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big17)
+[2019.08.16-18.17.09:172][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1327)
+[2019.08.16-18.17.09:789][563]Cmd: DUPLICATE
+[2019.08.16-18.17.09:789][563]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.17.19:179][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.17.30:909][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.17.38:734][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.18.02:906][755]Cmd: DUPLICATE
+[2019.08.16-18.18.02:906][755]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.08:962][453]Cmd: DUPLICATE
+[2019.08.16-18.18.08:962][453]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.15:454][202]Cmd: DUPLICATE
+[2019.08.16-18.18.15:454][202]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.21:541][918]Cmd: DUPLICATE
+[2019.08.16-18.18.21:541][918]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.30:752][976]Cmd: DUPLICATE
+[2019.08.16-18.18.30:752][976]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.40:167][ 51]Cmd: DUPLICATE
+[2019.08.16-18.18.40:167][ 51]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.46:215][758]Cmd: DUPLICATE
+[2019.08.16-18.18.46:215][758]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.18.53:809][650]Cmd: DUPLICATE
+[2019.08.16-18.18.53:809][650]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.19.07:119][185]Cmd: DUPLICATE
+[2019.08.16-18.19.07:120][185]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.19.27:772][558]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1395)
+[2019.08.16-18.19.29:035][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1393)
+[2019.08.16-18.19.29:541][757]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1392)
+[2019.08.16-18.19.30:059][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1391)
+[2019.08.16-18.19.30:523][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1390)
+[2019.08.16-18.19.31:078][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1389)
+[2019.08.16-18.19.31:933][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1388)
+[2019.08.16-18.19.32:616][ 99]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1387)
+[2019.08.16-18.19.33:552][205]Cmd: DELETE
+[2019.08.16-18.19.33:552][205]Cmd: ACTOR DELETE
+[2019.08.16-18.19.33:577][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:578][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:578][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:578][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:579][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:579][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:579][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:579][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:580][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.33:610][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.08.16-18.19.33:611][205]LogEditorActor: Deleted 9 Actors (0.059 secs)
+[2019.08.16-18.19.42:719][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1394)
+[2019.08.16-18.19.43:417][375]Cmd: DELETE
+[2019.08.16-18.19.43:417][375]Cmd: ACTOR DELETE
+[2019.08.16-18.19.43:443][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.19.43:468][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.08.16-18.19.43:468][375]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.08.16-18.19.46:412][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big17)
+[2019.08.16-18.19.46:956][765]Cmd: DUPLICATE
+[2019.08.16-18.19.46:956][765]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.20.20:906][622]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.16-18.20.21:418][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1386)
+[2019.08.16-18.20.39:178][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1378)
+[2019.08.16-18.20.39:695][761]Cmd: DUPLICATE
+[2019.08.16-18.20.39:695][761]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.21.08:006][ 44]Cmd: DUPLICATE
+[2019.08.16-18.21.08:006][ 44]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.21.32:427][932]Cmd: DUPLICATE
+[2019.08.16-18.21.32:427][932]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.21.44:127][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1388)
+[2019.08.16-18.21.46:997][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1389)
+[2019.08.16-18.21.56:240][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1386)
+[2019.08.16-18.21.58:672][889]Cmd: TRANSACTION UNDO
+[2019.08.16-18.21.58:672][889]LogEditorTransaction: Undo Scale Actors
+[2019.08.16-18.21.58:750][889]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.16-18.21.59:686][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1387)
+[2019.08.16-18.22.00:762][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1386)
+[2019.08.16-18.22.05:136][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1387)
+[2019.08.16-18.22.05:542][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1388)
+[2019.08.16-18.22.06:208][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1389)
+[2019.08.16-18.22.06:840][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1387)
+[2019.08.16-18.22.15:221][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.16-18.25.50:516][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.08.16-18.25.52:459][371]LogSavePackage: Moving '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/clockwork_city_Auto1DF8B377F434D2DE21BC5E89B3FFBF995.tmp' to '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Autosaves/Game/CRPG_3_0/maps/clockwork_city_Auto1.umap'
+[2019.08.16-18.25.52:505][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CRPG_3_0/maps/clockwork_city' took 2.016
+[2019.08.16-18.25.52:505][371]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.016
+[2019.08.16-18.43.19:838][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.43.20:162][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.08.16-18.43.21:627][706]LogSavePackage: Moving '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/clockwork_city4145951742309FC4A29265B34BCC1701.tmp' to '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/CRPG_3_0/maps/clockwork_city.umap'
+[2019.08.16-18.43.28:035][706]LogSavePackage: Moving '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/clockwork_city_BuiltData921707AF41D3C013A488B497B024689C.tmp' to '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/CRPG_3_0/maps/clockwork_city_BuiltData.uasset'
+[2019.08.16-18.43.37:265][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.43.49:537][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1328)
+[2019.08.16-18.43.51:833][459]Cmd: DUPLICATE
+[2019.08.16-18.43.51:833][459]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.44.04:926][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.44.08:970][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1390)
+[2019.08.16-18.44.23:775][ 65]Cmd: DELETE
+[2019.08.16-18.44.23:775][ 65]Cmd: ACTOR DELETE
+[2019.08.16-18.44.23:795][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.44.23:823][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.08.16-18.44.23:824][ 65]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.08.16-18.44.26:313][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1328)
+[2019.08.16-18.44.28:727][608]Cmd: DUPLICATE
+[2019.08.16-18.44.28:727][608]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.44.49:269][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1327)
+[2019.08.16-18.44.49:511][998]Cmd: DUPLICATE
+[2019.08.16-18.44.49:511][998]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.45.02:364][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1390)
+[2019.08.16-18.45.02:822][526]Cmd: DUPLICATE
+[2019.08.16-18.45.02:822][526]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.45.23:280][357]Cmd: DUPLICATE
+[2019.08.16-18.45.23:280][357]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.45.29:575][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1393)
+[2019.08.16-18.45.49:796][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1327)
+[2019.08.16-18.45.50:170][397]Cmd: DUPLICATE
+[2019.08.16-18.45.50:170][397]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.45.51:374][532]Cmd: TRANSACTION UNDO
+[2019.08.16-18.45.51:374][532]LogEditorTransaction: Undo Duplicate Actors
+[2019.08.16-18.46.00:805][877]Cmd: TRANSACTION UNDO
+[2019.08.16-18.46.00:805][877]LogEditorTransaction: Undo Move Actors
+[2019.08.16-18.46.02:217][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1327)
+[2019.08.16-18.46.02:702][ 86]Cmd: DUPLICATE
+[2019.08.16-18.46.02:702][ 86]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.46.46:869][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1384)
+[2019.08.16-18.46.52:573][221]Cmd: TRANSACTION UNDO
+[2019.08.16-18.46.52:573][221]LogEditorTransaction: Undo Move Actors
+[2019.08.16-18.46.53:468][320]Cmd: TRANSACTION UNDO
+[2019.08.16-18.46.53:469][320]LogEditorTransaction: Undo Scale Actors
+[2019.08.16-18.46.53:869][365]Cmd: TRANSACTION UNDO
+[2019.08.16-18.46.53:869][365]LogEditorTransaction: Undo Scale Actors
+[2019.08.16-18.46.54:962][492]Cmd: DUPLICATE
+[2019.08.16-18.46.54:962][492]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.47.05:219][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1384)
+[2019.08.16-18.47.06:175][769]Cmd: TRANSACTION UNDO
+[2019.08.16-18.47.06:175][769]LogEditorTransaction: Undo Move Actors
+[2019.08.16-18.47.08:594][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1395)
+[2019.08.16-18.47.18:555][162]Cmd: DUPLICATE
+[2019.08.16-18.47.18:555][162]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.47.23:624][758]Cmd: DUPLICATE
+[2019.08.16-18.47.23:624][758]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.47.31:147][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1394)
+[2019.08.16-18.47.42:830][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.47.46:887][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1396)
+[2019.08.16-18.47.56:992][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1395)
+[2019.08.16-18.47.57:508][623]Cmd: DUPLICATE
+[2019.08.16-18.47.57:509][623]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.48.01:059][ 34]Cmd: DELETE
+[2019.08.16-18.48.01:059][ 34]Cmd: ACTOR DELETE
+[2019.08.16-18.48.01:082][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.48.01:111][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.16-18.48.01:111][ 34]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.08.16-18.48.01:890][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1394)
+[2019.08.16-18.48.02:302][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1396)
+[2019.08.16-18.48.02:701][213]Cmd: DELETE
+[2019.08.16-18.48.02:702][213]Cmd: ACTOR DELETE
+[2019.08.16-18.48.02:721][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.48.02:745][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.08.16-18.48.02:746][213]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.08.16-18.48.08:728][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1395)
+[2019.08.16-18.48.09:451][980]Cmd: DUPLICATE
+[2019.08.16-18.48.09:451][980]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.48.18:858][ 82]Cmd: DUPLICATE
+[2019.08.16-18.48.18:858][ 82]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.48.32:972][684]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1396)
+[2019.08.16-18.48.43:332][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big18)
+[2019.08.16-18.48.43:627][891]Cmd: DUPLICATE
+[2019.08.16-18.48.43:627][891]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.49.03:451][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1387)
+[2019.08.16-18.49.03:841][213]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1388)
+[2019.08.16-18.49.05:581][381]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1389)
+[2019.08.16-18.49.06:889][523]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1387)
+[2019.08.16-18.49.11:331][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big19)
+[2019.08.16-18.49.18:945][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1396)
+[2019.08.16-18.49.19:625][949]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Brush_Cube1398)
+[2019.08.16-18.49.30:972][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1395)
+[2019.08.16-18.49.31:312][227]Cmd: DUPLICATE
+[2019.08.16-18.49.31:312][227]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.49.52:509][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1394)
+[2019.08.16-18.49.53:166][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.49.54:405][877]Cmd: DUPLICATE
+[2019.08.16-18.49.54:405][877]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.49.59:956][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1400)
+[2019.08.16-18.50.09:645][634]Cmd: DUPLICATE
+[2019.08.16-18.50.09:645][634]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.50.14:218][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1400)
+[2019.08.16-18.50.16:253][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1401)
+[2019.08.16-18.50.18:760][655]Cmd: DELETE
+[2019.08.16-18.50.18:760][655]Cmd: ACTOR DELETE
+[2019.08.16-18.50.18:779][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.50.18:806][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.08.16-18.50.18:806][655]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.08.16-18.50.19:078][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1400)
+[2019.08.16-18.50.28:007][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.50.28:473][750]Cmd: DUPLICATE
+[2019.08.16-18.50.28:473][750]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.50.34:991][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.50.42:892][366]Cmd: DUPLICATE
+[2019.08.16-18.50.42:892][366]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.51.06:881][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.51.21:859][739]Cmd: DUPLICATE
+[2019.08.16-18.51.21:859][739]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.51.35:970][273]Cmd: DUPLICATE
+[2019.08.16-18.51.35:970][273]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.51.48:965][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.51.50:083][871]Cmd: DUPLICATE
+[2019.08.16-18.51.50:083][871]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.51.52:814][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.51.54:519][385]Cmd: DELETE
+[2019.08.16-18.51.54:519][385]Cmd: ACTOR DELETE
+[2019.08.16-18.51.54:540][385]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.51.54:568][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.08.16-18.51.54:569][385]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.08.16-18.51.56:265][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1405)
+[2019.08.16-18.52.06:688][744]Cmd: DUPLICATE
+[2019.08.16-18.52.06:688][744]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.52.09:104][ 19]Cmd: DELETE
+[2019.08.16-18.52.09:104][ 19]Cmd: ACTOR DELETE
+[2019.08.16-18.52.09:124][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.52.09:151][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.08.16-18.52.09:151][ 19]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.08.16-18.52.09:688][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1405)
+[2019.08.16-18.52.10:041][119]Cmd: DUPLICATE
+[2019.08.16-18.52.10:041][119]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.52.25:696][917]Cmd: DELETE
+[2019.08.16-18.52.25:696][917]Cmd: ACTOR DELETE
+[2019.08.16-18.52.25:715][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.52.25:742][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.08.16-18.52.25:742][917]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.08.16-18.52.26:019][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1405)
+[2019.08.16-18.52.32:501][704]Cmd: DUPLICATE
+[2019.08.16-18.52.32:501][704]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.52.50:710][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.52.53:617][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1394)
+[2019.08.16-18.52.54:504][161]Cmd: DUPLICATE
+[2019.08.16-18.52.54:504][161]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.53.05:955][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.53.06:578][514]Cmd: DUPLICATE
+[2019.08.16-18.53.06:578][514]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.53.07:980][671]Cmd: DELETE
+[2019.08.16-18.53.07:980][671]Cmd: ACTOR DELETE
+[2019.08.16-18.53.08:003][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.53.08:029][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.08.16-18.53.08:030][671]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.08.16-18.53.08:419][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.53.21:274][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.53.46:366][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.53.46:474][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.16-18.53.46:520][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city' with GeneratedClass '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city'
+[2019.08.16-18.53.46:545][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.16-18.53.46:572][ 31]PIE: New page: PIE session: clockwork_city (16/08/2019, 22:53:46)
+[2019.08.16-18.53.46:618][ 31]LogPlayLevel: Creating play world package: /Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city
+[2019.08.16-18.53.46:751][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132640s)
+[2019.08.16-18.53.46:752][ 31]LogAIModule: Creating AISystem for world clockwork_city
+[2019.08.16-18.53.46:752][ 31]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.08.16-18.53.46:753][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CRPG_3_0/maps/clockwork_city.clockwork_city to /Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city.clockwork_city (0.134150s)
+[2019.08.16-18.53.46:779][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.08.16-18.53.46:801][ 31]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.16-18.53.46:824][ 31]LogInit: FAudioDevice initialized.
+[2019.08.16-18.53.46:950][ 31]LogLoad: Game class is 'BP_GameMode_C'
+[2019.08.16-18.53.47:111][ 31]LogWorld: Bringing World /Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city.clockwork_city up for play (max tick rate 0) at 2019.08.16-20.53.47
+[2019.08.16-18.53.47:264][ 31]LogWorld: Bringing up level for play took: 0.203473
+[2019.08.16-18.53.47:345][ 31]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.08.16-18.53.47:506][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.47:507][ 31]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city.clockwork_city:PersistentLevel.BPC_WeaponLauncher_C_0'
+[2019.08.16-18.53.47:507][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.47:507][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.47:507][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.47:508][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.47:508][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.49:700][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.49:701][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.49:701][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.49:837][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.50:011][ 31]LogLinker: Warning: Can't find file '/Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city'
+[2019.08.16-18.53.50:398][ 31]PIE: Play in editor start time for /Game/CRPG_3_0/maps/UEDPIE_0_clockwork_city 3,763
+[2019.08.16-18.53.50:398][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city' with GeneratedClass '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city'
+[2019.08.16-18.53.51:809][ 33]LogTemp: Warning: RampVector X=-nan(ind) Y=-nan(ind) Z=-nan(ind)    delta X=0.000 Y=0.000 Z=0.000      velocity X=0.000 Y=0.000 Z=-2980.837
+[2019.08.16-18.53.53:300][106]LogTemp: Warning: RampVector X=0.283 Y=-0.306 Z=0.000    delta X=0.283 Y=-0.306 Z=0.000      velocity X=34.002 Y=-36.661 Z=0.000
+[2019.08.16-18.53.53:307][107]LogTemp: Warning: RampVector X=0.567 Y=-0.610 Z=0.000    delta X=0.567 Y=-0.610 Z=0.000      velocity X=68.061 Y=-73.163 Z=0.000
+[2019.08.16-18.53.53:317][108]LogTemp: Warning: RampVector X=0.851 Y=-0.914 Z=0.000    delta X=0.851 Y=-0.914 Z=0.000      velocity X=102.106 Y=-109.633 Z=0.000
+[2019.08.16-18.53.53:323][109]LogTemp: Warning: RampVector X=1.137 Y=-1.218 Z=0.000    delta X=1.137 Y=-1.218 Z=0.000      velocity X=136.416 Y=-146.133 Z=0.000
+[2019.08.16-18.53.53:332][110]LogTemp: Warning: RampVector X=1.423 Y=-1.522 Z=0.000    delta X=1.423 Y=-1.522 Z=0.000      velocity X=170.722 Y=-182.610 Z=0.000
+[2019.08.16-18.53.53:340][111]LogTemp: Warning: RampVector X=1.710 Y=-1.827 Z=0.000    delta X=1.710 Y=-1.827 Z=0.000      velocity X=205.155 Y=-219.153 Z=0.000
+[2019.08.16-18.53.53:349][112]LogTemp: Warning: RampVector X=1.995 Y=-2.131 Z=0.000    delta X=1.995 Y=-2.131 Z=0.000      velocity X=239.370 Y=-255.698 Z=0.000
+[2019.08.16-18.53.53:357][113]LogTemp: Warning: RampVector X=2.280 Y=-2.436 Z=0.000    delta X=2.280 Y=-2.436 Z=0.000      velocity X=273.625 Y=-292.284 Z=0.000
+[2019.08.16-18.53.53:366][114]LogTemp: Warning: RampVector X=2.567 Y=-2.741 Z=0.000    delta X=2.567 Y=-2.741 Z=0.000      velocity X=308.059 Y=-328.828 Z=0.000
+[2019.08.16-18.53.53:375][115]LogTemp: Warning: RampVector X=3.318 Y=-3.539 Z=0.000    delta X=3.318 Y=-3.539 Z=0.000      velocity X=347.499 Y=-370.673 Z=0.000
+[2019.08.16-18.53.53:384][116]LogTemp: Warning: RampVector X=3.294 Y=-3.511 Z=0.000    delta X=3.294 Y=-3.511 Z=0.000      velocity X=382.956 Y=-408.171 Z=0.000
+[2019.08.16-18.53.53:392][117]LogTemp: Warning: RampVector X=3.478 Y=-3.702 Z=0.000    delta X=3.478 Y=-3.702 Z=0.000      velocity X=417.371 Y=-444.195 Z=0.000
+[2019.08.16-18.53.53:400][118]LogTemp: Warning: RampVector X=3.803 Y=-4.047 Z=0.000    delta X=3.803 Y=-4.047 Z=0.000      velocity X=452.017 Y=-481.056 Z=0.000
+[2019.08.16-18.53.53:408][119]LogTemp: Warning: RampVector X=4.053 Y=-4.312 Z=0.000    delta X=4.053 Y=-4.312 Z=0.000      velocity X=486.296 Y=-517.389 Z=0.000
+[2019.08.16-18.53.53:416][120]LogTemp: Warning: RampVector X=4.339 Y=-4.616 Z=0.000    delta X=4.339 Y=-4.616 Z=0.000      velocity X=520.559 Y=-553.799 Z=0.000
+[2019.08.16-18.53.53:424][121]LogTemp: Warning: RampVector X=4.623 Y=-4.920 Z=0.000    delta X=4.623 Y=-4.920 Z=0.000      velocity X=554.775 Y=-590.344 Z=0.000
+[2019.08.16-18.53.53:433][122]LogTemp: Warning: RampVector X=4.910 Y=-5.226 Z=0.000    delta X=4.910 Y=-5.226 Z=0.000      velocity X=589.073 Y=-626.977 Z=0.000
+[2019.08.16-18.53.53:441][123]LogTemp: Warning: RampVector X=5.196 Y=-5.530 Z=0.000    delta X=5.196 Y=-5.530 Z=0.000      velocity X=623.445 Y=-663.455 Z=0.000
+[2019.08.16-18.53.53:449][124]LogTemp: Warning: RampVector X=5.482 Y=-5.835 Z=0.000    delta X=5.482 Y=-5.835 Z=0.000      velocity X=657.688 Y=-700.029 Z=0.000
+[2019.08.16-18.53.53:458][125]LogTemp: Warning: RampVector X=5.768 Y=-6.139 Z=0.000    delta X=5.768 Y=-6.139 Z=0.000      velocity X=692.090 Y=-736.539 Z=0.000
+[2019.08.16-18.53.53:466][126]LogTemp: Warning: RampVector X=6.060 Y=-6.451 Z=0.000    delta X=6.060 Y=-6.451 Z=0.000      velocity X=726.392 Y=-773.175 Z=0.000
+[2019.08.16-18.53.53:474][127]LogTemp: Warning: RampVector X=6.341 Y=-6.749 Z=0.000    delta X=6.341 Y=-6.749 Z=0.000      velocity X=760.740 Y=-809.805 Z=0.000
+[2019.08.16-18.53.53:483][128]LogTemp: Warning: RampVector X=6.626 Y=-7.053 Z=0.000    delta X=6.626 Y=-7.053 Z=0.000      velocity X=794.999 Y=-846.220 Z=0.000
+[2019.08.16-18.53.53:491][129]LogTemp: Warning: RampVector X=6.911 Y=-7.357 Z=0.000    delta X=6.911 Y=-7.357 Z=0.000      velocity X=829.245 Y=-882.797 Z=0.000
+[2019.08.16-18.53.53:499][130]LogTemp: Warning: RampVector X=7.214 Y=-7.681 Z=0.000    delta X=7.214 Y=-7.681 Z=0.000      velocity X=863.576 Y=-919.464 Z=0.000
+[2019.08.16-18.53.53:508][131]LogTemp: Warning: RampVector X=7.484 Y=-7.965 Z=0.000    delta X=7.484 Y=-7.965 Z=0.000      velocity X=897.974 Y=-955.625 Z=0.000
+[2019.08.16-18.53.53:516][132]LogTemp: Warning: RampVector X=7.837 Y=-8.335 Z=0.000    delta X=7.837 Y=-8.335 Z=0.000      velocity X=932.588 Y=-991.830 Z=0.000
+[2019.08.16-18.53.53:524][133]LogTemp: Warning: RampVector X=8.059 Y=-8.570 Z=0.000    delta X=8.059 Y=-8.570 Z=0.000      velocity X=966.962 Y=-1028.277 Z=0.000
+[2019.08.16-18.53.53:533][134]LogTemp: Warning: RampVector X=8.344 Y=-8.873 Z=0.000    delta X=8.344 Y=-8.873 Z=0.000      velocity X=1001.256 Y=-1064.708 Z=0.000
+[2019.08.16-18.53.53:541][135]LogTemp: Warning: RampVector X=8.564 Y=-9.108 Z=0.000    delta X=8.564 Y=-9.108 Z=0.000      velocity X=1027.520 Y=-1092.796 Z=0.000
+[2019.08.16-18.53.53:550][136]LogTemp: Warning: RampVector X=8.564 Y=-9.108 Z=0.000    delta X=8.564 Y=-9.108 Z=0.000      velocity X=1027.540 Y=-1092.777 Z=0.000
+[2019.08.16-18.53.53:558][137]LogTemp: Warning: RampVector X=8.563 Y=-9.107 Z=0.000    delta X=8.563 Y=-9.107 Z=0.000      velocity X=1027.540 Y=-1092.777 Z=0.000
+[2019.08.16-18.53.53:567][138]LogTemp: Warning: RampVector X=8.573 Y=-9.119 Z=0.000    delta X=8.573 Y=-9.119 Z=0.000      velocity X=1027.428 Y=-1092.883 Z=0.000
+[2019.08.16-18.53.53:575][139]LogTemp: Warning: RampVector X=8.564 Y=-9.107 Z=0.000    delta X=8.564 Y=-9.107 Z=0.000      velocity X=1027.567 Y=-1092.752 Z=0.000
+[2019.08.16-18.53.53:583][140]LogTemp: Warning: RampVector X=8.564 Y=-9.108 Z=0.000    delta X=8.564 Y=-9.108 Z=0.000      velocity X=1027.540 Y=-1092.777 Z=0.000
+[2019.08.16-18.53.53:591][141]LogTemp: Warning: RampVector X=8.564 Y=-9.108 Z=0.000    delta X=8.564 Y=-9.108 Z=0.000      velocity X=1027.540 Y=-1092.777 Z=0.000
+[2019.08.16-18.53.53:600][142]LogTemp: Warning: RampVector X=8.564 Y=-9.107 Z=0.000    delta X=8.564 Y=-9.107 Z=0.000      velocity X=1027.540 Y=-1092.777 Z=0.000
+[2019.08.16-18.53.53:608][143]LogTemp: Warning: RampVector X=8.564 Y=-9.108 Z=0.000    delta X=8.564 Y=-9.108 Z=0.000      velocity X=1027.540 Y=-1092.777 Z=0.000
+[2019.08.16-18.53.53:618][144]LogTemp: Warning: RampVector X=8.847 Y=-9.409 Z=0.000    delta X=8.847 Y=-9.409 Z=0.000      velocity X=1027.542 Y=-1092.775 Z=0.000
+[2019.08.16-18.53.53:625][145]LogTemp: Warning: RampVector X=8.565 Y=-9.108 Z=0.000    delta X=8.565 Y=-9.108 Z=0.000      velocity X=1027.570 Y=-1092.749 Z=0.000
+[2019.08.16-18.53.53:634][146]LogTemp: Warning: RampVector X=8.561 Y=-9.111 Z=0.000    delta X=8.561 Y=-9.111 Z=0.000      velocity X=1027.145 Y=-1093.148 Z=0.000
+[2019.08.16-18.53.53:642][147]LogTemp: Warning: RampVector X=8.557 Y=-9.114 Z=0.000    delta X=8.557 Y=-9.114 Z=0.000      velocity X=1026.723 Y=-1093.545 Z=0.000
+[2019.08.16-18.53.53:651][148]LogTemp: Warning: RampVector X=8.549 Y=-9.122 Z=0.000    delta X=8.549 Y=-9.122 Z=0.000      velocity X=1025.729 Y=-1094.477 Z=0.000
+[2019.08.16-18.53.53:659][149]LogTemp: Warning: RampVector X=8.538 Y=-9.130 Z=-0.006    delta X=8.538 Y=-9.130 Z=0.000      velocity X=1024.542 Y=-1095.589 Z=0.000
+[2019.08.16-18.53.53:668][150]LogTemp: Warning: RampVector X=8.540 Y=-9.153 Z=0.000    delta X=8.540 Y=-9.153 Z=0.000      velocity X=1023.255 Y=-1096.790 Z=-0.635
+[2019.08.16-18.53.53:676][151]LogTemp: Warning: RampVector X=8.513 Y=-9.154 Z=0.000    delta X=8.513 Y=-9.154 Z=0.000      velocity X=1021.500 Y=-1098.425 Z=0.000
+[2019.08.16-18.53.53:695][152]LogTemp: Warning: RampVector X=19.508 Y=-21.140 Z=0.000    delta X=19.508 Y=-21.140 Z=0.000      velocity X=1017.260 Y=-1102.353 Z=0.000
+[2019.08.16-18.53.53:709][153]LogTemp: Warning: RampVector X=13.708 Y=-14.946 Z=0.000    delta X=13.708 Y=-14.946 Z=0.000      velocity X=1013.876 Y=-1105.466 Z=0.000
+[2019.08.16-18.53.53:730][154]LogTemp: Warning: RampVector X=21.557 Y=-23.769 Z=-0.011    delta X=21.557 Y=-23.769 Z=0.000      velocity X=1007.712 Y=-1111.088 Z=0.000
+[2019.08.16-18.53.53:756][155]LogTemp: Warning: RampVector X=26.477 Y=-29.567 Z=0.000    delta X=26.477 Y=-29.567 Z=0.000      velocity X=1000.662 Y=-1117.441 Z=-0.358
+[2019.08.16-18.53.53:767][156]LogTemp: Warning: RampVector X=10.898 Y=-12.230 Z=0.000    delta X=10.898 Y=-12.230 Z=0.000      velocity X=997.943 Y=-1119.870 Z=0.000
+[2019.08.16-18.53.53:780][157]LogTemp: Warning: RampVector X=13.482 Y=-15.225 Z=0.000    delta X=13.482 Y=-15.225 Z=0.000      velocity X=994.406 Y=-1123.013 Z=0.000
+[2019.08.16-18.53.53:795][158]LogTemp: Warning: RampVector X=14.540 Y=-16.524 Z=0.000    delta X=14.540 Y=-16.524 Z=0.000      velocity X=990.891 Y=-1126.115 Z=0.000
+[2019.08.16-18.53.53:803][159]LogTemp: Warning: RampVector X=8.242 Y=-9.399 Z=0.000    delta X=8.242 Y=-9.399 Z=0.000      velocity X=988.979 Y=-1127.795 Z=0.000
+[2019.08.16-18.53.53:812][160]LogTemp: Warning: RampVector X=9.093 Y=-10.408 Z=0.000    delta X=9.093 Y=-10.408 Z=0.000      velocity X=986.892 Y=-1129.622 Z=0.000
+[2019.08.16-18.53.53:823][161]LogTemp: Warning: RampVector X=10.831 Y=-12.448 Z=0.000    delta X=10.831 Y=-12.448 Z=0.000      velocity X=984.657 Y=-1131.570 Z=0.000
+[2019.08.16-18.53.53:833][162]LogTemp: Warning: RampVector X=9.051 Y=-10.433 Z=0.000    delta X=9.051 Y=-10.433 Z=0.000      velocity X=982.950 Y=-1133.053 Z=0.000
+[2019.08.16-18.53.53:840][163]LogTemp: Warning: RampVector X=8.180 Y=-9.453 Z=0.000    delta X=8.180 Y=-9.453 Z=0.000      velocity X=981.567 Y=-1134.251 Z=0.000
+[2019.08.16-18.53.53:849][164]LogTemp: Warning: RampVector X=8.193 Y=-9.490 Z=0.000    delta X=8.193 Y=-9.490 Z=0.000      velocity X=980.290 Y=-1135.355 Z=0.000
+[2019.08.16-18.53.53:857][165]LogTemp: Warning: RampVector X=8.161 Y=-9.469 Z=0.000    delta X=8.161 Y=-9.469 Z=0.000      velocity X=979.257 Y=-1136.247 Z=0.000
+[2019.08.16-18.53.53:867][166]LogTemp: Warning: RampVector X=8.430 Y=-9.799 Z=0.000    delta X=8.430 Y=-9.799 Z=0.000      velocity X=978.208 Y=-1137.149 Z=0.000
+[2019.08.16-18.53.53:874][167]LogTemp: Warning: RampVector X=8.793 Y=-8.887 Z=0.000    delta X=8.793 Y=-8.887 Z=0.000      velocity X=1054.967 Y=-1066.323 Z=0.000
+[2019.08.16-18.53.53:883][168]LogTemp: Warning: RampVector X=9.347 Y=-8.304 Z=0.000    delta X=9.347 Y=-8.304 Z=0.000      velocity X=1121.378 Y=-996.248 Z=0.000
+[2019.08.16-18.53.53:891][169]LogTemp: Warning: RampVector X=9.820 Y=-7.737 Z=0.000    delta X=9.820 Y=-7.737 Z=0.000      velocity X=1178.198 Y=-928.358 Z=0.000
+[2019.08.16-18.53.53:899][170]LogTemp: Warning: RampVector X=10.223 Y=-7.194 Z=0.000    delta X=10.223 Y=-7.194 Z=0.000      velocity X=1226.738 Y=-863.200 Z=0.000
+[2019.08.16-18.53.53:908][171]LogTemp: Warning: RampVector X=10.567 Y=-6.680 Z=0.000    delta X=10.567 Y=-6.680 Z=0.000      velocity X=1267.886 Y=-801.539 Z=0.000
+[2019.08.16-18.53.53:916][172]LogTemp: Warning: RampVector X=10.859 Y=-6.196 Z=0.000    delta X=10.859 Y=-6.196 Z=0.000      velocity X=1302.831 Y=-743.392 Z=0.000
+[2019.08.16-18.53.53:924][173]LogTemp: Warning: RampVector X=11.105 Y=-5.743 Z=0.000    delta X=11.105 Y=-5.743 Z=0.000      velocity X=1332.370 Y=-689.051 Z=0.000
+[2019.08.16-18.53.53:933][174]LogTemp: Warning: RampVector X=11.311 Y=-5.322 Z=0.000    delta X=11.311 Y=-5.322 Z=0.000      velocity X=1357.266 Y=-638.614 Z=0.000
+[2019.08.16-18.53.53:941][175]LogTemp: Warning: RampVector X=11.487 Y=-4.934 Z=0.000    delta X=11.487 Y=-4.934 Z=0.000      velocity X=1378.241 Y=-591.990 Z=0.000
+[2019.08.16-18.53.53:950][176]LogTemp: Warning: RampVector X=11.759 Y=-4.245 Z=0.000    delta X=11.759 Y=-4.245 Z=0.000      velocity X=1410.865 Y=-509.372 Z=0.000
+[2019.08.16-18.53.53:958][177]LogTemp: Warning: RampVector X=11.930 Y=-3.155 Z=0.000    delta X=11.930 Y=-3.155 Z=0.000      velocity X=1431.394 Y=-378.570 Z=0.000
+[2019.08.16-18.53.53:966][178]LogTemp: Warning: RampVector X=12.079 Y=-2.145 Z=0.000    delta X=12.079 Y=-2.145 Z=0.000      velocity X=1449.473 Y=-257.391 Z=0.000
+[2019.08.16-18.53.53:975][179]LogTemp: Warning: RampVector X=12.219 Y=-1.204 Z=0.000    delta X=12.219 Y=-1.204 Z=0.000      velocity X=1466.025 Y=-144.460 Z=0.000
+[2019.08.16-18.53.53:983][180]LogTemp: Warning: RampVector X=12.502 Y=-0.318 Z=0.000    delta X=12.502 Y=-0.318 Z=0.000      velocity X=1481.562 Y=-37.659 Z=0.000
+[2019.08.16-18.53.53:991][181]LogTemp: Warning: RampVector X=12.471 Y=0.509 Z=0.000    delta X=12.471 Y=0.509 Z=0.000      velocity X=1496.346 Y=61.133 Z=0.000
+[2019.08.16-18.53.54:000][182]LogTemp: Warning: RampVector X=12.437 Y=1.265 Z=0.000    delta X=12.437 Y=1.265 Z=0.000      velocity X=1492.302 Y=151.773 Z=0.000
+[2019.08.16-18.53.54:008][183]LogTemp: Warning: RampVector X=12.348 Y=1.955 Z=0.000    delta X=12.348 Y=1.955 Z=0.000      velocity X=1481.547 Y=234.559 Z=0.000
+[2019.08.16-18.53.54:016][184]LogTemp: Warning: RampVector X=12.232 Y=2.579 Z=0.000    delta X=12.232 Y=2.579 Z=0.000      velocity X=1467.744 Y=309.400 Z=0.000
+[2019.08.16-18.53.54:025][185]LogTemp: Warning: RampVector X=12.226 Y=2.615 Z=0.000    delta X=12.226 Y=2.615 Z=0.000      velocity X=1466.823 Y=313.736 Z=0.000
+[2019.08.16-18.53.54:033][186]LogTemp: Warning: RampVector X=12.300 Y=2.269 Z=0.000    delta X=12.300 Y=2.269 Z=0.000      velocity X=1475.101 Y=272.172 Z=0.000
+[2019.08.16-18.53.54:041][187]LogTemp: Warning: RampVector X=12.347 Y=1.954 Z=0.000    delta X=12.347 Y=1.954 Z=0.000      velocity X=1481.558 Y=234.489 Z=0.000
+[2019.08.16-18.53.54:050][188]LogTemp: Warning: RampVector X=12.390 Y=1.668 Z=0.000    delta X=12.390 Y=1.668 Z=0.000      velocity X=1486.591 Y=200.120 Z=0.000
+[2019.08.16-18.53.54:059][189]LogTemp: Warning: RampVector X=12.461 Y=1.412 Z=0.000    delta X=12.461 Y=1.412 Z=0.000      velocity X=1490.455 Y=168.950 Z=0.000
+[2019.08.16-18.53.54:067][190]LogTemp: Warning: RampVector X=12.446 Y=1.175 Z=0.000    delta X=12.446 Y=1.175 Z=0.000      velocity X=1493.363 Y=140.949 Z=0.000
+[2019.08.16-18.53.54:075][191]LogTemp: Warning: RampVector X=12.464 Y=0.963 Z=0.000    delta X=12.464 Y=0.963 Z=0.000      velocity X=1495.544 Y=115.538 Z=0.000
+[2019.08.16-18.53.54:083][192]LogTemp: Warning: RampVector X=12.478 Y=0.768 Z=0.000    delta X=12.478 Y=0.768 Z=0.000      velocity X=1497.163 Y=92.204 Z=0.000
+[2019.08.16-18.53.54:091][193]LogTemp: Warning: RampVector X=12.487 Y=0.595 Z=0.000    delta X=12.487 Y=0.595 Z=0.000      velocity X=1498.299 Y=71.405 Z=0.000
+[2019.08.16-18.53.54:100][194]LogTemp: Warning: RampVector X=12.495 Y=0.436 Z=0.000    delta X=12.495 Y=0.436 Z=0.000      velocity X=1499.087 Y=52.327 Z=0.000
+[2019.08.16-18.53.54:108][195]LogTemp: Warning: RampVector X=12.497 Y=0.295 Z=0.000    delta X=12.497 Y=0.295 Z=0.000      velocity X=1499.583 Y=35.382 Z=0.000
+[2019.08.16-18.53.54:116][196]LogTemp: Warning: RampVector X=12.499 Y=0.164 Z=0.000    delta X=12.499 Y=0.164 Z=0.000      velocity X=1499.870 Y=19.709 Z=0.000
+[2019.08.16-18.53.54:125][197]LogTemp: Warning: RampVector X=12.500 Y=0.048 Z=-0.004    delta X=12.500 Y=0.048 Z=0.000      velocity X=1499.989 Y=5.732 Z=0.000
+[2019.08.16-18.53.54:133][198]LogTemp: Warning: RampVector X=12.502 Y=-0.062 Z=-0.004    delta X=12.502 Y=-0.062 Z=-0.000      velocity X=1499.982 Y=-7.380 Z=-0.424
+[2019.08.16-18.53.54:141][199]LogTemp: Warning: RampVector X=12.501 Y=-0.161 Z=-0.004    delta X=12.501 Y=-0.161 Z=-0.000      velocity X=1499.875 Y=-19.371 Z=-0.423
+[2019.08.16-18.53.54:150][200]LogTemp: Warning: RampVector X=12.498 Y=-0.250 Z=0.000    delta X=12.498 Y=-0.250 Z=0.000      velocity X=1499.701 Y=-29.956 Z=-0.423
+[2019.08.16-18.53.54:158][201]LogTemp: Warning: RampVector X=12.585 Y=-0.337 Z=0.000    delta X=12.585 Y=-0.337 Z=0.000      velocity X=1499.462 Y=-40.169 Z=0.000
+[2019.08.16-18.53.54:166][202]LogTemp: Warning: RampVector X=12.494 Y=-0.411 Z=0.000    delta X=12.494 Y=-0.411 Z=0.000      velocity X=1499.190 Y=-49.295 Z=0.000
+[2019.08.16-18.53.54:175][203]LogTemp: Warning: RampVector X=12.492 Y=-0.480 Z=0.000    delta X=12.492 Y=-0.480 Z=0.000      velocity X=1498.894 Y=-57.593 Z=0.000
+[2019.08.16-18.53.54:183][204]LogTemp: Warning: RampVector X=12.490 Y=-0.544 Z=0.000    delta X=12.490 Y=-0.544 Z=0.000      velocity X=1498.582 Y=-65.210 Z=0.000
+[2019.08.16-18.53.54:192][205]LogTemp: Warning: RampVector X=12.486 Y=-0.603 Z=0.000    delta X=12.486 Y=-0.603 Z=0.000      velocity X=1498.252 Y=-72.385 Z=0.000
+[2019.08.16-18.53.54:200][206]LogTemp: Warning: RampVector X=12.484 Y=-0.657 Z=0.000    delta X=12.484 Y=-0.657 Z=0.000      velocity X=1497.925 Y=-78.876 Z=0.000
+[2019.08.16-18.53.54:208][207]LogTemp: Warning: RampVector X=12.481 Y=-0.707 Z=0.000    delta X=12.481 Y=-0.707 Z=0.000      velocity X=1497.601 Y=-84.797 Z=0.000
+[2019.08.16-18.53.54:216][208]LogTemp: Warning: RampVector X=12.479 Y=-0.753 Z=0.000    delta X=12.479 Y=-0.753 Z=0.000      velocity X=1497.279 Y=-90.307 Z=0.000
+[2019.08.16-18.53.54:225][209]LogTemp: Warning: RampVector X=12.477 Y=-0.795 Z=0.000    delta X=12.477 Y=-0.795 Z=0.000      velocity X=1496.964 Y=-95.381 Z=0.000
+[2019.08.16-18.53.54:234][210]LogTemp: Warning: RampVector X=12.473 Y=-0.834 Z=0.000    delta X=12.473 Y=-0.834 Z=0.000      velocity X=1496.661 Y=-100.032 Z=0.000
+[2019.08.16-18.53.54:242][211]LogTemp: Warning: RampVector X=12.491 Y=-0.484 Z=0.000    delta X=12.491 Y=-0.484 Z=0.000      velocity X=1498.875 Y=-58.081 Z=0.000
+[2019.08.16-18.53.54:250][212]LogTemp: Warning: RampVector X=12.497 Y=0.338 Z=0.000    delta X=12.497 Y=0.338 Z=0.000      velocity X=1499.452 Y=40.524 Z=0.000
+[2019.08.16-18.53.54:259][213]LogTemp: Warning: RampVector X=12.453 Y=1.091 Z=0.000    delta X=12.453 Y=1.091 Z=0.000      velocity X=1494.273 Y=130.954 Z=0.000
+[2019.08.16-18.53.54:267][214]LogTemp: Warning: RampVector X=12.374 Y=1.779 Z=0.000    delta X=12.374 Y=1.779 Z=0.000      velocity X=1484.726 Y=213.516 Z=0.000
+[2019.08.16-18.53.54:275][215]LogTemp: Warning: RampVector X=12.267 Y=2.407 Z=0.000    delta X=12.267 Y=2.407 Z=0.000      velocity X=1471.928 Y=288.840 Z=0.000
+[2019.08.16-18.53.54:283][216]LogTemp: Warning: RampVector X=12.143 Y=2.972 Z=-0.004    delta X=12.143 Y=2.972 Z=0.000      velocity X=1456.988 Y=356.630 Z=0.000
+[2019.08.16-18.53.54:292][217]LogTemp: Warning: RampVector X=12.008 Y=3.479 Z=-0.004    delta X=12.008 Y=3.479 Z=-0.000      velocity X=1440.754 Y=417.407 Z=-0.427
+[2019.08.16-18.53.54:300][218]LogTemp: Warning: RampVector X=11.866 Y=3.935 Z=-0.004    delta X=11.866 Y=3.935 Z=-0.000      velocity X=1423.749 Y=472.163 Z=-0.426
+[2019.08.16-18.53.54:308][219]LogTemp: Warning: RampVector X=11.722 Y=4.341 Z=-0.004    delta X=11.722 Y=4.341 Z=-0.000      velocity X=1406.632 Y=520.949 Z=-0.426
+[2019.08.16-18.53.54:317][220]LogTemp: Warning: RampVector X=12.250 Y=5.004 Z=-0.005    delta X=12.250 Y=5.004 Z=-0.000      velocity X=1388.628 Y=567.197 Z=-0.423
+[2019.08.16-18.53.54:326][221]LogTemp: Warning: RampVector X=11.435 Y=5.054 Z=-0.004    delta X=11.435 Y=5.054 Z=-0.000      velocity X=1371.993 Y=606.329 Z=-0.502
+[2019.08.16-18.53.54:334][222]LogTemp: Warning: RampVector X=11.300 Y=5.345 Z=-0.004    delta X=11.300 Y=5.345 Z=-0.000      velocity X=1355.943 Y=641.418 Z=-0.425
+[2019.08.16-18.53.54:341][223]LogTemp: Warning: RampVector X=11.175 Y=5.606 Z=-0.004    delta X=11.175 Y=5.606 Z=-0.000      velocity X=1340.763 Y=672.572 Z=-0.424
+[2019.08.16-18.53.54:350][224]LogTemp: Warning: RampVector X=11.054 Y=5.839 Z=-0.004    delta X=11.054 Y=5.839 Z=-0.000      velocity X=1326.347 Y=700.573 Z=-0.424
+[2019.08.16-18.53.54:358][225]LogTemp: Warning: RampVector X=10.941 Y=6.049 Z=-0.004    delta X=10.941 Y=6.049 Z=-0.000      velocity X=1312.731 Y=725.766 Z=-0.424
+[2019.08.16-18.53.54:366][226]LogTemp: Warning: RampVector X=10.834 Y=6.237 Z=-0.004    delta X=10.834 Y=6.237 Z=-0.000      velocity X=1299.965 Y=748.391 Z=-0.424
+[2019.08.16-18.53.54:375][227]LogTemp: Warning: RampVector X=10.735 Y=6.406 Z=-0.004    delta X=10.735 Y=6.406 Z=-0.000      velocity X=1288.110 Y=768.617 Z=-0.424
+[2019.08.16-18.53.54:383][228]LogTemp: Warning: RampVector X=10.644 Y=6.557 Z=-0.004    delta X=10.644 Y=6.557 Z=-0.000      velocity X=1277.127 Y=786.731 Z=-0.424
+[2019.08.16-18.53.54:391][229]LogTemp: Warning: RampVector X=10.559 Y=6.692 Z=-0.004    delta X=10.559 Y=6.692 Z=-0.000      velocity X=1266.964 Y=802.996 Z=-0.424
+[2019.08.16-18.53.54:400][230]LogTemp: Warning: RampVector X=10.482 Y=6.813 Z=-0.004    delta X=10.482 Y=6.813 Z=-0.000      velocity X=1257.698 Y=817.432 Z=-0.424
+[2019.08.16-18.53.54:408][231]LogTemp: Warning: RampVector X=10.411 Y=6.921 Z=-0.004    delta X=10.411 Y=6.921 Z=-0.000      velocity X=1249.178 Y=830.393 Z=-0.424
+[2019.08.16-18.53.54:417][232]LogTemp: Warning: RampVector X=10.346 Y=7.019 Z=-0.004    delta X=10.346 Y=7.019 Z=-0.000      velocity X=1241.320 Y=842.095 Z=-0.423
+[2019.08.16-18.53.54:425][233]LogTemp: Warning: RampVector X=10.285 Y=7.106 Z=-0.004    delta X=10.285 Y=7.106 Z=-0.000      velocity X=1234.089 Y=852.657 Z=-0.423
+[2019.08.16-18.53.54:433][234]LogTemp: Warning: RampVector X=10.231 Y=7.185 Z=-0.004    delta X=10.231 Y=7.185 Z=-0.000      velocity X=1227.576 Y=862.008 Z=-0.423
+[2019.08.16-18.53.54:442][235]LogTemp: Warning: RampVector X=9.860 Y=7.686 Z=-0.004    delta X=9.860 Y=7.686 Z=-0.000      velocity X=1183.062 Y=922.152 Z=-0.429
+[2019.08.16-18.53.54:450][236]LogTemp: Warning: RampVector X=9.281 Y=8.374 Z=-0.004    delta X=9.281 Y=8.374 Z=-0.000      velocity X=1113.692 Y=1004.833 Z=-0.435
+[2019.08.16-18.53.54:458][237]LogTemp: Warning: RampVector X=8.704 Y=8.972 Z=-0.004    delta X=8.704 Y=8.972 Z=-0.000      velocity X=1044.448 Y=1076.628 Z=-0.433
+[2019.08.16-18.53.54:467][238]LogTemp: Warning: RampVector X=8.139 Y=9.488 Z=-0.004    delta X=8.139 Y=9.488 Z=-0.000      velocity X=976.585 Y=1138.544 Z=-0.432
+[2019.08.16-18.53.54:475][239]LogTemp: Warning: RampVector X=7.594 Y=9.931 Z=-0.004    delta X=7.594 Y=9.931 Z=-0.000      velocity X=911.171 Y=1191.540 Z=-0.430
+[2019.08.16-18.53.54:483][240]LogTemp: Warning: RampVector X=7.074 Y=10.307 Z=-0.004    delta X=7.074 Y=10.307 Z=-0.000      velocity X=848.827 Y=1236.726 Z=-0.429
+[2019.08.16-18.53.54:492][241]LogTemp: Warning: RampVector X=6.582 Y=10.627 Z=-0.004    delta X=6.582 Y=10.627 Z=-0.000      velocity X=789.838 Y=1275.208 Z=-0.428
+[2019.08.16-18.53.54:500][242]LogTemp: Warning: RampVector X=6.121 Y=10.899 Z=0.000    delta X=6.121 Y=10.899 Z=0.000      velocity X=734.545 Y=1307.839 Z=-0.427
+[2019.08.16-18.53.54:508][243]LogTemp: Warning: RampVector X=5.691 Y=11.131 Z=0.000    delta X=5.691 Y=11.131 Z=0.000      velocity X=682.831 Y=1335.568 Z=0.000
+[2019.08.16-18.53.54:517][244]LogTemp: Warning: RampVector X=5.292 Y=11.327 Z=0.000    delta X=5.292 Y=11.327 Z=0.000      velocity X=634.948 Y=1358.985 Z=0.000
+[2019.08.16-18.53.54:525][245]LogTemp: Warning: RampVector X=4.145 Y=11.537 Z=0.000    delta X=4.145 Y=11.537 Z=0.000      velocity X=497.300 Y=1384.320 Z=0.000
+[2019.08.16-18.53.54:534][246]LogTemp: Warning: RampVector X=3.081 Y=11.720 Z=0.000    delta X=3.081 Y=11.720 Z=0.000      velocity X=369.737 Y=1406.310 Z=0.000
+[2019.08.16-18.53.54:542][247]LogTemp: Warning: RampVector X=2.094 Y=11.880 Z=0.000    delta X=2.094 Y=11.880 Z=0.000      velocity X=251.279 Y=1425.419 Z=0.000
+[2019.08.16-18.53.54:550][248]LogTemp: Warning: RampVector X=1.169 Y=12.023 Z=0.000    delta X=1.169 Y=12.023 Z=0.000      velocity X=140.281 Y=1442.472 Z=0.000
+[2019.08.16-18.53.54:559][249]LogTemp: Warning: RampVector X=0.301 Y=12.152 Z=0.000    delta X=0.301 Y=12.152 Z=0.000      velocity X=36.168 Y=1458.232 Z=0.000
+[2019.08.16-18.53.54:567][250]LogTemp: Warning: RampVector X=-0.518 Y=12.276 Z=0.000    delta X=-0.518 Y=12.276 Z=0.000      velocity X=-62.139 Y=1472.837 Z=0.000
+[2019.08.16-18.53.54:575][251]LogTemp: Warning: RampVector X=-1.290 Y=12.391 Z=0.000    delta X=-1.290 Y=12.391 Z=0.000      velocity X=-154.822 Y=1486.660 Z=0.000
+[2019.08.16-18.53.54:584][252]LogTemp: Warning: RampVector X=-1.995 Y=12.341 Z=0.000    delta X=-1.995 Y=12.341 Z=0.000      velocity X=-239.332 Y=1480.784 Z=0.000
+[2019.08.16-18.53.54:592][253]LogTemp: Warning: RampVector X=-2.629 Y=12.222 Z=0.000    delta X=-2.629 Y=12.222 Z=0.000      velocity X=-315.482 Y=1466.448 Z=0.000
+[2019.08.16-18.53.54:600][254]LogTemp: Warning: RampVector X=-3.204 Y=12.084 Z=0.000    delta X=-3.204 Y=12.084 Z=0.000      velocity X=-384.419 Y=1449.904 Z=0.000
+[2019.08.16-18.53.54:609][255]LogTemp: Warning: RampVector X=-3.720 Y=11.934 Z=0.000    delta X=-3.720 Y=11.934 Z=0.000      velocity X=-446.335 Y=1432.056 Z=0.000
+[2019.08.16-18.53.54:617][256]LogTemp: Warning: RampVector X=-4.183 Y=11.781 Z=0.000    delta X=-4.183 Y=11.781 Z=0.000      velocity X=-501.905 Y=1413.539 Z=0.000
+[2019.08.16-18.53.54:625][257]LogTemp: Warning: RampVector X=-4.600 Y=11.623 Z=0.000    delta X=-4.600 Y=11.623 Z=0.000      velocity X=-551.960 Y=1394.754 Z=0.000
+[2019.08.16-18.53.54:634][258]LogTemp: Warning: RampVector X=-4.973 Y=11.469 Z=0.000    delta X=-4.973 Y=11.469 Z=0.000      velocity X=-596.670 Y=1376.221 Z=0.000
+[2019.08.16-18.53.54:642][259]LogTemp: Warning: RampVector X=-5.307 Y=11.318 Z=0.000    delta X=-5.307 Y=11.318 Z=0.000      velocity X=-636.789 Y=1358.124 Z=0.000
+[2019.08.16-18.53.54:650][260]LogTemp: Warning: RampVector X=-5.605 Y=11.174 Z=0.000    delta X=-5.605 Y=11.174 Z=0.000      velocity X=-672.543 Y=1340.778 Z=0.000
+[2019.08.16-18.53.54:659][261]LogTemp: Warning: RampVector X=-5.874 Y=11.036 Z=0.000    delta X=-5.874 Y=11.036 Z=0.000      velocity X=-704.760 Y=1324.128 Z=0.000
+[2019.08.16-18.53.54:667][262]LogTemp: Warning: RampVector X=-6.111 Y=10.906 Z=0.000    delta X=-6.111 Y=10.906 Z=0.000      velocity X=-733.227 Y=1308.579 Z=0.000
+[2019.08.16-18.53.54:675][263]LogTemp: Warning: RampVector X=-6.325 Y=10.783 Z=0.000    delta X=-6.325 Y=10.783 Z=0.000      velocity X=-758.919 Y=1293.848 Z=0.000
+[2019.08.16-18.53.54:683][264]LogTemp: Warning: RampVector X=-6.517 Y=10.669 Z=0.000    delta X=-6.517 Y=10.669 Z=0.000      velocity X=-781.912 Y=1280.084 Z=0.000
+[2019.08.16-18.53.54:692][265]LogTemp: Warning: RampVector X=-6.687 Y=10.562 Z=0.000    delta X=-6.687 Y=10.562 Z=0.000      velocity X=-802.369 Y=1267.361 Z=0.000
+[2019.08.16-18.53.54:700][266]LogTemp: Warning: RampVector X=-6.840 Y=10.463 Z=0.000    delta X=-6.840 Y=10.463 Z=0.000      velocity X=-820.801 Y=1255.502 Z=0.000
+[2019.08.16-18.53.54:708][267]LogTemp: Warning: RampVector X=-6.978 Y=10.372 Z=0.000    delta X=-6.978 Y=10.372 Z=0.000      velocity X=-837.351 Y=1244.525 Z=0.000
+[2019.08.16-18.53.54:717][268]LogTemp: Warning: RampVector X=-7.100 Y=10.288 Z=0.000    delta X=-7.100 Y=10.288 Z=0.000      velocity X=-851.962 Y=1234.569 Z=0.000
+[2019.08.16-18.53.54:725][269]LogTemp: Warning: RampVector X=-7.210 Y=10.212 Z=0.000    delta X=-7.210 Y=10.212 Z=0.000      velocity X=-865.164 Y=1225.354 Z=0.000
+[2019.08.16-18.53.54:734][270]LogTemp: Warning: RampVector X=-7.311 Y=10.142 Z=0.000    delta X=-7.311 Y=10.142 Z=0.000      velocity X=-877.169 Y=1216.788 Z=0.000
+[2019.08.16-18.53.54:742][271]LogTemp: Warning: RampVector X=-7.399 Y=10.076 Z=0.000    delta X=-7.399 Y=10.076 Z=0.000      velocity X=-887.857 Y=1209.012 Z=0.000
+[2019.08.16-18.53.54:750][272]LogTemp: Warning: RampVector X=-7.477 Y=10.017 Z=0.000    delta X=-7.477 Y=10.017 Z=0.000      velocity X=-897.252 Y=1202.056 Z=0.000
+[2019.08.16-18.53.54:759][273]LogTemp: Warning: RampVector X=-7.550 Y=9.963 Z=0.000    delta X=-7.550 Y=9.963 Z=0.000      velocity X=-905.915 Y=1195.541 Z=0.000
+[2019.08.16-18.53.54:767][274]LogTemp: Warning: RampVector X=-7.615 Y=9.914 Z=0.000    delta X=-7.615 Y=9.914 Z=0.000      velocity X=-913.727 Y=1189.581 Z=0.000
+[2019.08.16-18.53.54:775][275]LogTemp: Warning: RampVector X=-7.673 Y=9.870 Z=0.000    delta X=-7.673 Y=9.870 Z=0.000      velocity X=-920.695 Y=1184.196 Z=0.000
+[2019.08.16-18.53.54:783][276]LogTemp: Warning: RampVector X=-7.727 Y=9.828 Z=0.000    delta X=-7.727 Y=9.828 Z=0.000      velocity X=-927.101 Y=1179.187 Z=0.000
+[2019.08.16-18.53.54:792][277]LogTemp: Warning: RampVector X=-7.773 Y=9.790 Z=0.000    delta X=-7.773 Y=9.790 Z=0.000      velocity X=-932.680 Y=1174.780 Z=0.000
+[2019.08.16-18.53.54:800][278]LogTemp: Warning: RampVector X=-7.816 Y=9.756 Z=0.000    delta X=-7.816 Y=9.756 Z=0.000      velocity X=-937.850 Y=1170.657 Z=0.000
+[2019.08.16-18.53.54:808][279]LogTemp: Warning: RampVector X=-7.854 Y=9.727 Z=0.000    delta X=-7.854 Y=9.727 Z=0.000      velocity X=-942.333 Y=1167.052 Z=0.000
+[2019.08.16-18.53.54:817][280]LogTemp: Warning: RampVector X=-7.886 Y=9.700 Z=0.000    delta X=-7.886 Y=9.700 Z=0.000      velocity X=-946.206 Y=1163.913 Z=0.000
+[2019.08.16-18.53.54:825][281]LogTemp: Warning: RampVector X=-7.912 Y=9.680 Z=0.000    delta X=-7.912 Y=9.680 Z=0.000      velocity X=-949.275 Y=1161.411 Z=0.000
+[2019.08.16-18.53.54:834][282]LogTemp: Warning: RampVector X=-6.857 Y=8.389 Z=0.000    delta X=-6.857 Y=8.389 Z=0.000      velocity X=-822.733 Y=1006.533 Z=0.000
+[2019.08.16-18.53.54:842][283]LogTemp: Warning: RampVector X=-5.942 Y=7.271 Z=0.000    delta X=-5.942 Y=7.271 Z=0.000      velocity X=-713.053 Y=872.480 Z=0.000
+[2019.08.16-18.53.54:850][284]LogTemp: Warning: RampVector X=-5.149 Y=6.304 Z=0.000    delta X=-5.149 Y=6.304 Z=0.000      velocity X=-617.879 Y=756.404 Z=0.000
+[2019.08.16-18.53.54:859][285]LogTemp: Warning: RampVector X=-4.464 Y=5.464 Z=0.000    delta X=-4.464 Y=5.464 Z=0.000      velocity X=-535.576 Y=655.609 Z=0.000
+[2019.08.16-18.53.54:867][286]LogTemp: Warning: RampVector X=-3.867 Y=4.732 Z=0.000    delta X=-3.867 Y=4.732 Z=0.000      velocity X=-464.061 Y=567.840 Z=0.000
+[2019.08.16-18.53.54:875][287]LogTemp: Warning: RampVector X=-3.352 Y=4.103 Z=0.000    delta X=-3.352 Y=4.103 Z=0.000      velocity X=-402.153 Y=492.332 Z=0.000
+[2019.08.16-18.53.54:884][288]LogTemp: Warning: RampVector X=-2.905 Y=3.555 Z=0.000    delta X=-2.905 Y=3.555 Z=0.000      velocity X=-348.497 Y=426.483 Z=0.000
+[2019.08.16-18.53.54:892][289]LogTemp: Warning: RampVector X=-2.517 Y=3.080 Z=0.000    delta X=-2.517 Y=3.080 Z=0.000      velocity X=-301.995 Y=369.624 Z=0.000
+[2019.08.16-18.53.54:901][290]LogTemp: Warning: RampVector X=-2.182 Y=2.668 Z=0.000    delta X=-2.182 Y=2.668 Z=0.000      velocity X=-261.808 Y=320.100 Z=0.000
+[2019.08.16-18.53.54:908][291]LogTemp: Warning: RampVector X=-1.891 Y=2.309 Z=0.000    delta X=-1.891 Y=2.309 Z=0.000      velocity X=-226.866 Y=277.032 Z=0.000
+[2019.08.16-18.53.54:916][292]LogTemp: Warning: RampVector X=-1.638 Y=2.004 Z=0.000    delta X=-1.638 Y=2.004 Z=0.000      velocity X=-196.605 Y=240.476 Z=0.000
+[2019.08.16-18.53.54:925][293]LogTemp: Warning: RampVector X=-1.420 Y=1.740 Z=0.000    delta X=-1.420 Y=1.740 Z=0.000      velocity X=-170.414 Y=208.803 Z=0.000
+[2019.08.16-18.53.54:933][294]LogTemp: Warning: RampVector X=-1.231 Y=1.510 Z=0.000    delta X=-1.231 Y=1.510 Z=0.000      velocity X=-147.654 Y=181.166 Z=0.000
+[2019.08.16-18.53.54:941][295]LogTemp: Warning: RampVector X=-1.066 Y=1.307 Z=0.000    delta X=-1.066 Y=1.307 Z=0.000      velocity X=-127.946 Y=156.785 Z=0.000
+[2019.08.16-18.53.54:950][296]LogTemp: Warning: RampVector X=-0.924 Y=1.131 Z=0.000    delta X=-0.924 Y=1.131 Z=0.000      velocity X=-110.894 Y=135.673 Z=0.000
+[2019.08.16-18.53.54:958][297]LogTemp: Warning: RampVector X=-0.801 Y=0.982 Z=0.000    delta X=-0.801 Y=0.982 Z=0.000      velocity X=-96.068 Y=117.800 Z=0.000
+[2019.08.16-18.53.54:966][298]LogTemp: Warning: RampVector X=-0.694 Y=0.853 Z=0.000    delta X=-0.694 Y=0.853 Z=0.000      velocity X=-83.273 Y=102.365 Z=0.000
+[2019.08.16-18.53.54:975][299]LogTemp: Warning: RampVector X=-0.601 Y=0.738 Z=0.000    delta X=-0.601 Y=0.738 Z=0.000      velocity X=-72.105 Y=88.558 Z=0.000
+[2019.08.16-18.53.54:984][300]LogTemp: Warning: RampVector X=-0.522 Y=0.637 Z=0.000    delta X=-0.522 Y=0.637 Z=0.000      velocity X=-62.543 Y=76.351 Z=0.000
+[2019.08.16-18.53.54:985][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city' with GeneratedClass '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city'
+[2019.08.16-18.53.54:995][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.16-18.53.55:142][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.16-18.53.55:143][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel' has LevelScriptBlueprint '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city' with GeneratedClass '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city_C' with ClassGeneratedBy '/Game/CRPG_3_0/maps/clockwork_city.clockwork_city:PersistentLevel.clockwork_city'
+[2019.08.16-18.53.55:176][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.16-18.53.55:202][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.08.16-18.53.55:239][301]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.16-18.53.56:687][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.54.00:867][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.54.11:209][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.54.11:810][122]Cmd: DUPLICATE
+[2019.08.16-18.54.11:810][122]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.54.27:043][841]Cmd: DELETE
+[2019.08.16-18.54.27:043][841]Cmd: ACTOR DELETE
+[2019.08.16-18.54.27:065][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.16-18.54.27:092][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.16-18.54.27:093][841]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.08.16-18.54.27:454][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.54.43:234][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big18)
+[2019.08.16-18.54.43:946][697]Cmd: DUPLICATE
+[2019.08.16-18.54.43:947][697]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.55.21:466][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1403)
+[2019.08.16-18.55.21:775][915]Cmd: DUPLICATE
+[2019.08.16-18.55.21:775][915]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.55.38:238][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big20)
+[2019.08.16-18.55.39:017][796]Cmd: DUPLICATE
+[2019.08.16-18.55.39:017][796]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.55.40:561][959]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.16-18.55.41:162][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big21)
+[2019.08.16-18.55.58:340][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.56.00:842][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1404)
+[2019.08.16-18.56.03:536][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1397)
+[2019.08.16-18.56.12:231][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.56.58:671][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big21)
+[2019.08.16-18.56.59:332][950]Cmd: DUPLICATE
+[2019.08.16-18.56.59:332][950]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.57.13:194][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.16-18.57.38:754][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.08.16-18.57.40:246][ 59]LogSavePackage: Moving '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/clockwork_city_Auto2C95BB1FE4AFD7A249908D798796128F6.tmp' to '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/Autosaves/Game/CRPG_3_0/maps/clockwork_city_Auto2.umap'
+[2019.08.16-18.57.40:252][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CRPG_3_0/maps/clockwork_city' took 1.529
+[2019.08.16-18.57.40:252][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.529
+[2019.08.16-18.58.54:391][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.16-18.58.58:783][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.16-18.58.59:206][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-18.59.01:494][ 28]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.16-18.59.01:914][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_big22)
+[2019.08.16-18.59.30:466][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.16-18.59.36:329][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1407)
+[2019.08.16-18.59.36:720][768]Cmd: DUPLICATE
+[2019.08.16-18.59.36:720][768]Cmd: ACTOR DUPLICATE
+[2019.08.16-18.59.39:604][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1408)
+[2019.08.16-18.59.58:697][346]Cmd: DUPLICATE
+[2019.08.16-18.59.58:697][346]Cmd: ACTOR DUPLICATE
+[2019.08.16-19.00.25:084][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.16-19.00.31:541][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.16-19.00.35:584][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1409)
+[2019.08.16-19.00.38:967][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1408)
+[2019.08.16-19.01.00:119][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.16-19.01.10:723][658]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.16-19.01.11:279][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Brush_Cube1409)
+[2019.08.16-19.01.17:752][472]Cmd: DUPLICATE
+[2019.08.16-19.01.17:752][472]Cmd: ACTOR DUPLICATE
+[2019.08.16-19.01.25:209][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-19.01.25:345][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.08.16-19.01.26:721][346]LogSavePackage: Moving '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/clockwork_city99524EDC4EFB5814A101A487A2067FD7.tmp' to '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/CRPG_3_0/maps/clockwork_city.umap'
+[2019.08.16-19.01.31:118][346]LogSavePackage: Moving '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Saved/clockwork_city_BuiltDataA58675F146D0C96E96E8069BE5655010.tmp' to '../../../../../../Users/Carlos/Documents/GitHub/Hakunamatata/Hakunamatata 4.22/Content/CRPG_3_0/maps/clockwork_city_BuiltData.uasset'
+[2019.08.16-19.01.40:814][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.16-19.01.40:959][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.08.16-19.01.41:046][445]LogSlate: Window 'Hakunamatata 4.22 - Unreal Editor' being destroyed
+[2019.08.16-19.01.41:304][446]Cmd: QUIT_EDITOR
+[2019.08.16-19.01.42:259][446]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.16-19.01.42:275][446]LogExit: Preparing to exit.
+[2019.08.16-19.01.42:603][446]LogExit: Editor shut down
+[2019.08.16-19.01.42:604][446]LogExit: Transaction tracking system shut down
+[2019.08.16-19.01.42:952][446]LogExit: Object subsystem successfully closed.
+[2019.08.16-19.01.43:005][446]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.16-19.01.43:014][446]LogD3D11RHI: Shutdown
+[2019.08.16-19.01.43:014][446]LogD3D11RHI: CleanupD3DDevice
+[2019.08.16-19.01.43:017][446]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.16-19.01.43:017][446]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.16-19.01.43:017][446]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.16-19.01.43:017][446]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.16-19.01.43:017][446]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.16-19.01.43:017][446]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.16-19.01.43:111][446]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.16-19.01.43:135][446]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.08.16-19.01.43:135][446]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.08.16-19.01.43:145][446]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2019.08.16-19.01.43:145][446]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2019.08.16-19.01.43:145][446]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.08.16-19.01.43:146][446]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.08.16-19.01.43:146][446]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module StatsViewer (634)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module FoliageEdit (632)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module LandscapeEditor (630)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module MeshPaintMode (628)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (626)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module ActorPickerMode (624)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module GeometryMode (622)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module TextureAlignMode (620)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module BspMode (618)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (616)
+[2019.08.16-19.01.43:147][446]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (614)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module AutomationWorker (612)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module OculusMR (610)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (608)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (606)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (604)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module PlacementMode (603)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module MaterialEditor (602)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (598)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (596)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (594)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (592)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (590)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module WebMMedia (588)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (586)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (584)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module SequenceRecorder (583)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (580)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (578)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (576)
+[2019.08.16-19.01.43:148][446]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (574)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (572)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (570)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (568)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (566)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (564)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (562)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (560)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module CharacterAI (558)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module SmartSnapping (556)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module SessionServices (554)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module MeshPaint (552)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2019.08.16-19.01.43:149][446]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2019.08.16-19.01.43:326][446]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (468)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (465)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module AnimGraph (463)
+[2019.08.16-19.01.43:381][446]LogModuleManager: Shutting down and abandoning module Kismet (460)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module GraphEditor (458)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module ClassViewer (456)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module Toolbox (454)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2019.08.16-19.01.43:387][446]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2019.08.16-19.01.43:392][446]LogModuleManager: Shutting down and abandoning module ProfilerService (410)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module TaskGraph (408)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module SteamVRController (406)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (404)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (402)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module OculusEditor (400)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module OculusInput (398)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (396)
+[2019.08.16-19.01.43:422][446]LogModuleManager: Shutting down and abandoning module EditableMesh (394)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (392)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module CableComponent (390)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AudioCapture (388)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (386)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AndroidPermission (384)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (382)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (380)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module MediaCompositing (378)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module LinearTimecode (376)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module ImgMedia (374)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module DirGravity (372)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.08.16-19.01.43:423][446]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module SignificanceManager (296)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.08.16-19.01.43:424][446]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.08.16-19.01.43:525][446]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module DonAINavigation (280)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.16-19.01.43:626][446]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.16-19.01.43:626][446]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.16-19.01.43:627][446]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.16-19.01.43:628][446]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.16-19.01.43:628][446]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.16-19.01.43:628][446]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.16-19.01.43:628][446]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.16-19.01.43:630][446]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.16-19.01.43:632][446]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.16-19.01.43:669][446]LogDerivedDataCache: Shutdown
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.16-19.01.43:669][446]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.16-19.01.43:670][446]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.16-19.01.43:672][446]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.16-19.01.43:672][446]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.16-19.01.43:672][446]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.16-19.01.43:672][446]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.16-19.01.43:672][446]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.16-19.01.43:675][446]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.16-19.01.43:675][446]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.16-19.01.43:677][446]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.16-19.01.43:677][446]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.16-19.01.43:694][446]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.16-19.01.43:694][446]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.16-19.01.43:695][446]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.16-19.01.43:695][446]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.16-19.01.43:710][446]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.16-19.01.43:710][446]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.16-19.01.43:710][446]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8213BDA6-4F48-3FA6-A6FA-BBA78A347369%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=4a5d43e748689ad9819d559a8151166e%7C6ee35eb595604b118b4e2606da26efc4%7C26f388cd-12b9-4792-b99c-de72e06f77e7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.16-19.01.43:714][446]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.16-19.01.43:716][446]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.16-19.01.43:718][446]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.16-19.01.43:724][446]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.16-19.01.43:724][446]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.16-19.01.43:725][446]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.16-19.01.43:726][446]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.16-19.01.43:743][446]LogExit: Exiting.
+[2019.08.16-19.01.43:773][446]Log file closed, 08/16/19 21:01:43
