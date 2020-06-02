@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#ignored files and folders
+-Saved/
+Hakunamatata 4.24/Intermediate/
+Hakunamatata 4.24/Intermediate/*
+Hakunamatata 4.24/saved/
+Hakunamatata 4.24/saved/*
+Hakunamatata 4.24/saved/*/*
+Hakunamatata 4.24/saved/*/*/*
